@@ -1,0 +1,2080 @@
+{
+ "terms": [
+  {
+   "label": "Bronfenbrenner",
+   "variants": [
+    "Bronfenbrenner"
+   ]
+  },
+  {
+   "label": "Erikson",
+   "variants": [
+    "Erikson"
+   ]
+  },
+  {
+   "label": "Freud",
+   "variants": [
+    "Freud"
+   ]
+  },
+  {
+   "label": "Hall",
+   "variants": [
+    "Hall"
+   ]
+  },
+  {
+   "label": "Kohlberg",
+   "variants": [
+    "Kohlberg"
+   ]
+  },
+  {
+   "label": "Piaget",
+   "variants": [
+    "Piaget"
+   ]
+  },
+  {
+   "label": "Vygotsky",
+   "variants": [
+    "Vygotsky"
+   ]
+  },
+  {
+   "label": "Abstract reasoning",
+   "variants": [
+    "abstract reasoning"
+   ]
+  },
+  {
+   "label": "Academic language",
+   "variants": [
+    "academic language"
+   ]
+  },
+  {
+   "label": "Academic motivation",
+   "variants": [
+    "academic motivation"
+   ]
+  },
+  {
+   "label": "Accessibility",
+   "variants": [
+    "accessibility"
+   ]
+  },
+  {
+   "label": "Acculturation",
+   "variants": [
+    "acculturation"
+   ]
+  },
+  {
+   "label": "Acculturative stress",
+   "variants": [
+    "acculturative stress"
+   ]
+  },
+  {
+   "label": "Achievement trajectories",
+   "variants": [
+    "achievement trajectories"
+   ]
+  },
+  {
+   "label": "Adaptive systems",
+   "variants": [
+    "adaptive systems"
+   ]
+  },
+  {
+   "label": "Adolescence",
+   "variants": [
+    "adolescence"
+   ]
+  },
+  {
+   "label": "Adolescence-limited antisocial behaviour",
+   "variants": [
+    "adolescence-limited antisocial behaviour"
+   ]
+  },
+  {
+   "label": "Adolescent disclosure",
+   "variants": [
+    "adolescent disclosure"
+   ]
+  },
+  {
+   "label": "Adolescent egocentrism",
+   "variants": [
+    "adolescent egocentrism"
+   ]
+  },
+  {
+   "label": "Adolescent research history",
+   "variants": [
+    "adolescent research history"
+   ]
+  },
+  {
+   "label": "Adrenarche",
+   "variants": [
+    "adrenarche"
+   ]
+  },
+  {
+   "label": "Adverse childhood experiences",
+   "variants": [
+    "adverse childhood experiences"
+   ]
+  },
+  {
+   "label": "Advocacy",
+   "variants": [
+    "advocacy"
+   ]
+  },
+  {
+   "label": "Affect labelling",
+   "variants": [
+    "affect labelling"
+   ]
+  },
+  {
+   "label": "Affirming counselling",
+   "variants": [
+    "affirming counselling"
+   ]
+  },
+  {
+   "label": "Affirming practice",
+   "variants": [
+    "affirming practice"
+   ]
+  },
+  {
+   "label": "Age-graded expectations",
+   "variants": [
+    "age-graded expectations"
+   ]
+  },
+  {
+   "label": "Algorithmic influence",
+   "variants": [
+    "algorithmic influence"
+   ]
+  },
+  {
+   "label": "Allostatic load",
+   "variants": [
+    "allostatic load"
+   ]
+  },
+  {
+   "label": "Argumentation",
+   "variants": [
+    "argumentation"
+   ]
+  },
+  {
+   "label": "Aspiration",
+   "variants": [
+    "aspiration"
+   ]
+  },
+  {
+   "label": "Aspirations",
+   "variants": [
+    "aspirations"
+   ]
+  },
+  {
+   "label": "Attachment in adolescence",
+   "variants": [
+    "attachment in adolescence"
+   ]
+  },
+  {
+   "label": "Attachment reorganisation",
+   "variants": [
+    "attachment reorganisation"
+   ]
+  },
+  {
+   "label": "Attention",
+   "variants": [
+    "attention"
+   ]
+  },
+  {
+   "label": "Attention differences",
+   "variants": [
+    "attention differences"
+   ]
+  },
+  {
+   "label": "Authority renegotiation",
+   "variants": [
+    "authority renegotiation"
+   ]
+  },
+  {
+   "label": "Autistic development",
+   "variants": [
+    "autistic development"
+   ]
+  },
+  {
+   "label": "Autonomy development",
+   "variants": [
+    "autonomy development"
+   ]
+  },
+  {
+   "label": "Belongingness",
+   "variants": [
+    "belongingness"
+   ]
+  },
+  {
+   "label": "Bicultural competence",
+   "variants": [
+    "bicultural competence"
+   ]
+  },
+  {
+   "label": "Body dissatisfaction",
+   "variants": [
+    "body dissatisfaction"
+   ]
+  },
+  {
+   "label": "Body image",
+   "variants": [
+    "body image"
+   ]
+  },
+  {
+   "label": "Breakup adjustment",
+   "variants": [
+    "breakup adjustment"
+   ]
+  },
+  {
+   "label": "Brief intervention",
+   "variants": [
+    "brief intervention"
+   ]
+  },
+  {
+   "label": "Buffering relationships",
+   "variants": [
+    "buffering relationships"
+   ]
+  },
+  {
+   "label": "Bullying",
+   "variants": [
+    "bullying"
+   ]
+  },
+  {
+   "label": "Bystander behaviour",
+   "variants": [
+    "bystander behaviour"
+   ]
+  },
+  {
+   "label": "Career decision readiness",
+   "variants": [
+    "career decision readiness"
+   ]
+  },
+  {
+   "label": "Career development",
+   "variants": [
+    "career development"
+   ]
+  },
+  {
+   "label": "Career exploration",
+   "variants": [
+    "career exploration"
+   ]
+  },
+  {
+   "label": "Case formulation",
+   "variants": [
+    "case formulation"
+   ]
+  },
+  {
+   "label": "Chronic illness",
+   "variants": [
+    "chronic illness"
+   ]
+  },
+  {
+   "label": "Chronosystem",
+   "variants": [
+    "chronosystem"
+   ]
+  },
+  {
+   "label": "Circadian phase delay",
+   "variants": [
+    "circadian phase delay"
+   ]
+  },
+  {
+   "label": "Civic development",
+   "variants": [
+    "civic development"
+   ]
+  },
+  {
+   "label": "Classroom guidance",
+   "variants": [
+    "classroom guidance"
+   ]
+  },
+  {
+   "label": "Cognitive control",
+   "variants": [
+    "cognitive control"
+   ]
+  },
+  {
+   "label": "Cohort effects",
+   "variants": [
+    "cohort effects"
+   ]
+  },
+  {
+   "label": "Cold cognition",
+   "variants": [
+    "cold cognition"
+   ]
+  },
+  {
+   "label": "Commitment",
+   "variants": [
+    "commitment"
+   ]
+  },
+  {
+   "label": "Communicative competence",
+   "variants": [
+    "communicative competence"
+   ]
+  },
+  {
+   "label": "Competence",
+   "variants": [
+    "competence"
+   ]
+  },
+  {
+   "label": "Comprehensive school counselling",
+   "variants": [
+    "comprehensive school counselling"
+   ]
+  },
+  {
+   "label": "Conduct problems",
+   "variants": [
+    "conduct problems"
+   ]
+  },
+  {
+   "label": "Confidentiality",
+   "variants": [
+    "confidentiality"
+   ]
+  },
+  {
+   "label": "Confidentiality limits",
+   "variants": [
+    "confidentiality limits"
+   ]
+  },
+  {
+   "label": "Confidentiality with minors",
+   "variants": [
+    "confidentiality with minors"
+   ]
+  },
+  {
+   "label": "Connectedness",
+   "variants": [
+    "connectedness"
+   ]
+  },
+  {
+   "label": "Conscience",
+   "variants": [
+    "conscience"
+   ]
+  },
+  {
+   "label": "Consent",
+   "variants": [
+    "consent"
+   ]
+  },
+  {
+   "label": "Consent in relationships",
+   "variants": [
+    "consent in relationships"
+   ]
+  },
+  {
+   "label": "Contextual influence",
+   "variants": [
+    "contextual influence"
+   ]
+  },
+  {
+   "label": "Continuing development",
+   "variants": [
+    "continuing development"
+   ]
+  },
+  {
+   "label": "Coping strategies",
+   "variants": [
+    "coping strategies"
+   ]
+  },
+  {
+   "label": "Counselling adolescents",
+   "variants": [
+    "counselling adolescents"
+   ]
+  },
+  {
+   "label": "Course integration",
+   "variants": [
+    "course integration"
+   ]
+  },
+  {
+   "label": "Creative media",
+   "variants": [
+    "creative media"
+   ]
+  },
+  {
+   "label": "Cultural humility",
+   "variants": [
+    "cultural humility"
+   ]
+  },
+  {
+   "label": "Cultural identity",
+   "variants": [
+    "cultural identity"
+   ]
+  },
+  {
+   "label": "Cultural pride",
+   "variants": [
+    "cultural pride"
+   ]
+  },
+  {
+   "label": "Cultural socialisation",
+   "variants": [
+    "cultural socialisation"
+   ]
+  },
+  {
+   "label": "Cumulative risk",
+   "variants": [
+    "cumulative risk"
+   ]
+  },
+  {
+   "label": "Cyberbullying",
+   "variants": [
+    "cyberbullying"
+   ]
+  },
+  {
+   "label": "Dating",
+   "variants": [
+    "dating"
+   ]
+  },
+  {
+   "label": "Decision competence",
+   "variants": [
+    "decision competence"
+   ]
+  },
+  {
+   "label": "Delay discounting",
+   "variants": [
+    "delay discounting"
+   ]
+  },
+  {
+   "label": "Desistance",
+   "variants": [
+    "desistance"
+   ]
+  },
+  {
+   "label": "Developmental assessment",
+   "variants": [
+    "developmental assessment"
+   ]
+  },
+  {
+   "label": "Developmental cascades",
+   "variants": [
+    "developmental cascades"
+   ]
+  },
+  {
+   "label": "Developmental delay",
+   "variants": [
+    "developmental delay"
+   ]
+  },
+  {
+   "label": "Developmental difference",
+   "variants": [
+    "developmental difference"
+   ]
+  },
+  {
+   "label": "Developmental formulation",
+   "variants": [
+    "developmental formulation"
+   ]
+  },
+  {
+   "label": "Developmental history",
+   "variants": [
+    "developmental history"
+   ]
+  },
+  {
+   "label": "Developmental monitoring",
+   "variants": [
+    "developmental monitoring"
+   ]
+  },
+  {
+   "label": "Developmental period",
+   "variants": [
+    "developmental period"
+   ]
+  },
+  {
+   "label": "Developmental perspective",
+   "variants": [
+    "developmental perspective"
+   ]
+  },
+  {
+   "label": "Developmental science",
+   "variants": [
+    "developmental science"
+   ]
+  },
+  {
+   "label": "Developmental tasks",
+   "variants": [
+    "developmental tasks"
+   ]
+  },
+  {
+   "label": "Developmental trauma",
+   "variants": [
+    "developmental trauma"
+   ]
+  },
+  {
+   "label": "Developmentally matched counselling",
+   "variants": [
+    "developmentally matched counselling"
+   ]
+  },
+  {
+   "label": "Digital belonging",
+   "variants": [
+    "digital belonging"
+   ]
+  },
+  {
+   "label": "Digital disclosure",
+   "variants": [
+    "digital disclosure"
+   ]
+  },
+  {
+   "label": "Digital literacy",
+   "variants": [
+    "digital literacy"
+   ]
+  },
+  {
+   "label": "Digital media use",
+   "variants": [
+    "digital media use"
+   ]
+  },
+  {
+   "label": "Disclosure",
+   "variants": [
+    "disclosure"
+   ]
+  },
+  {
+   "label": "Discrimination",
+   "variants": [
+    "discrimination"
+   ]
+  },
+  {
+   "label": "Disordered eating",
+   "variants": [
+    "disordered eating"
+   ]
+  },
+  {
+   "label": "Domain-specific self-views",
+   "variants": [
+    "domain-specific self-views"
+   ]
+  },
+  {
+   "label": "Dual systems model",
+   "variants": [
+    "dual systems model"
+   ]
+  },
+  {
+   "label": "Dyslexia",
+   "variants": [
+    "dyslexia"
+   ]
+  },
+  {
+   "label": "Early adolescence",
+   "variants": [
+    "early adolescence"
+   ]
+  },
+  {
+   "label": "Early adolescence practice",
+   "variants": [
+    "early adolescence practice"
+   ]
+  },
+  {
+   "label": "Early intervention",
+   "variants": [
+    "early intervention"
+   ]
+  },
+  {
+   "label": "Ecological systems",
+   "variants": [
+    "ecological systems"
+   ]
+  },
+  {
+   "label": "Economic disadvantage",
+   "variants": [
+    "economic disadvantage"
+   ]
+  },
+  {
+   "label": "Embodied competence",
+   "variants": [
+    "embodied competence"
+   ]
+  },
+  {
+   "label": "Emotion regulation",
+   "variants": [
+    "emotion regulation"
+   ]
+  },
+  {
+   "label": "Emotion-focused coping",
+   "variants": [
+    "emotion-focused coping"
+   ]
+  },
+  {
+   "label": "Emotional intensity",
+   "variants": [
+    "emotional intensity"
+   ]
+  },
+  {
+   "label": "Empathy",
+   "variants": [
+    "empathy"
+   ]
+  },
+  {
+   "label": "Enculturation",
+   "variants": [
+    "enculturation"
+   ]
+  },
+  {
+   "label": "Escalation",
+   "variants": [
+    "escalation"
+   ]
+  },
+  {
+   "label": "Ethical decision making",
+   "variants": [
+    "ethical decision making"
+   ]
+  },
+  {
+   "label": "Ethnic-racial identity",
+   "variants": [
+    "ethnic-racial identity"
+   ]
+  },
+  {
+   "label": "Examination preparation",
+   "variants": [
+    "examination preparation"
+   ]
+  },
+  {
+   "label": "Executive function",
+   "variants": [
+    "executive function"
+   ]
+  },
+  {
+   "label": "Existential questions",
+   "variants": [
+    "existential questions"
+   ]
+  },
+  {
+   "label": "Exosystem",
+   "variants": [
+    "exosystem"
+   ]
+  },
+  {
+   "label": "Expectancy-value theory",
+   "variants": [
+    "expectancy-value theory"
+   ]
+  },
+  {
+   "label": "Exploration",
+   "variants": [
+    "exploration"
+   ]
+  },
+  {
+   "label": "Family acceptance",
+   "variants": [
+    "family acceptance"
+   ]
+  },
+  {
+   "label": "Family accommodation",
+   "variants": [
+    "family accommodation"
+   ]
+  },
+  {
+   "label": "Family communication",
+   "variants": [
+    "family communication"
+   ]
+  },
+  {
+   "label": "Family influence",
+   "variants": [
+    "family influence"
+   ]
+  },
+  {
+   "label": "Family reorganisation",
+   "variants": [
+    "family reorganisation"
+   ]
+  },
+  {
+   "label": "Family sessions",
+   "variants": [
+    "family sessions"
+   ]
+  },
+  {
+   "label": "Family stress model",
+   "variants": [
+    "family stress model"
+   ]
+  },
+  {
+   "label": "Family transitions",
+   "variants": [
+    "family transitions"
+   ]
+  },
+  {
+   "label": "Fatigue",
+   "variants": [
+    "fatigue"
+   ]
+  },
+  {
+   "label": "Feedback meetings",
+   "variants": [
+    "feedback meetings"
+   ]
+  },
+  {
+   "label": "Felt security",
+   "variants": [
+    "felt security"
+   ]
+  },
+  {
+   "label": "Formal operations",
+   "variants": [
+    "formal operations"
+   ]
+  },
+  {
+   "label": "Formulation revision",
+   "variants": [
+    "formulation revision"
+   ]
+  },
+  {
+   "label": "Foster care",
+   "variants": [
+    "foster care"
+   ]
+  },
+  {
+   "label": "Friendship quality",
+   "variants": [
+    "friendship quality"
+   ]
+  },
+  {
+   "label": "Future orientation",
+   "variants": [
+    "future orientation"
+   ]
+  },
+  {
+   "label": "Gaming",
+   "variants": [
+    "gaming"
+   ]
+  },
+  {
+   "label": "Gender development",
+   "variants": [
+    "gender development"
+   ]
+  },
+  {
+   "label": "Gender diversity",
+   "variants": [
+    "gender diversity"
+   ]
+  },
+  {
+   "label": "Gender expression",
+   "variants": [
+    "gender expression"
+   ]
+  },
+  {
+   "label": "Gender identity",
+   "variants": [
+    "gender identity"
+   ]
+  },
+  {
+   "label": "Gender intensification",
+   "variants": [
+    "gender intensification"
+   ]
+  },
+  {
+   "label": "Giftedness",
+   "variants": [
+    "giftedness"
+   ]
+  },
+  {
+   "label": "Goal ownership",
+   "variants": [
+    "goal ownership"
+   ]
+  },
+  {
+   "label": "Gonadarche",
+   "variants": [
+    "gonadarche"
+   ]
+  },
+  {
+   "label": "Growth spurt",
+   "variants": [
+    "growth spurt"
+   ]
+  },
+  {
+   "label": "Harm reduction",
+   "variants": [
+    "harm reduction"
+   ]
+  },
+  {
+   "label": "Health autonomy",
+   "variants": [
+    "health autonomy"
+   ]
+  },
+  {
+   "label": "Health literacy",
+   "variants": [
+    "health literacy"
+   ]
+  },
+  {
+   "label": "Heritage culture",
+   "variants": [
+    "heritage culture"
+   ]
+  },
+  {
+   "label": "Hot cognition",
+   "variants": [
+    "hot cognition"
+   ]
+  },
+  {
+   "label": "Hypothetical thinking",
+   "variants": [
+    "hypothetical thinking"
+   ]
+  },
+  {
+   "label": "Identity diffusion",
+   "variants": [
+    "identity diffusion"
+   ]
+  },
+  {
+   "label": "Identity exploration",
+   "variants": [
+    "identity exploration"
+   ]
+  },
+  {
+   "label": "Identity formation",
+   "variants": [
+    "identity formation"
+   ]
+  },
+  {
+   "label": "Identity pride",
+   "variants": [
+    "identity pride"
+   ]
+  },
+  {
+   "label": "Identity status",
+   "variants": [
+    "identity status"
+   ]
+  },
+  {
+   "label": "Identity versus role confusion",
+   "variants": [
+    "identity versus role confusion"
+   ]
+  },
+  {
+   "label": "Illness identity",
+   "variants": [
+    "illness identity"
+   ]
+  },
+  {
+   "label": "Imaginary audience",
+   "variants": [
+    "imaginary audience"
+   ]
+  },
+  {
+   "label": "Inclusive practice",
+   "variants": [
+    "inclusive practice"
+   ]
+  },
+  {
+   "label": "Indicated prevention",
+   "variants": [
+    "indicated prevention"
+   ]
+  },
+  {
+   "label": "Individual planning",
+   "variants": [
+    "individual planning"
+   ]
+  },
+  {
+   "label": "Individuation",
+   "variants": [
+    "individuation"
+   ]
+  },
+  {
+   "label": "Informed assent",
+   "variants": [
+    "informed assent"
+   ]
+  },
+  {
+   "label": "Internal working models",
+   "variants": [
+    "internal working models"
+   ]
+  },
+  {
+   "label": "Intimacy development",
+   "variants": [
+    "intimacy development"
+   ]
+  },
+  {
+   "label": "Invention of adolescence",
+   "variants": [
+    "invention of adolescence"
+   ]
+  },
+  {
+   "label": "Kinship care",
+   "variants": [
+    "kinship care"
+   ]
+  },
+  {
+   "label": "Late adolescence",
+   "variants": [
+    "late adolescence"
+   ]
+  },
+  {
+   "label": "Late adolescence practice",
+   "variants": [
+    "late adolescence practice"
+   ]
+  },
+  {
+   "label": "Life-course-persistent behaviour",
+   "variants": [
+    "life-course-persistent behaviour"
+   ]
+  },
+  {
+   "label": "Literacy development",
+   "variants": [
+    "literacy development"
+   ]
+  },
+  {
+   "label": "Loneliness",
+   "variants": [
+    "loneliness"
+   ]
+  },
+  {
+   "label": "Longitudinal design",
+   "variants": [
+    "longitudinal design"
+   ]
+  },
+  {
+   "label": "Loyalty conflicts",
+   "variants": [
+    "loyalty conflicts"
+   ]
+  },
+  {
+   "label": "Macrosystem",
+   "variants": [
+    "macrosystem"
+   ]
+  },
+  {
+   "label": "Matched intervention",
+   "variants": [
+    "matched intervention"
+   ]
+  },
+  {
+   "label": "Material hardship",
+   "variants": [
+    "material hardship"
+   ]
+  },
+  {
+   "label": "Maturational theory",
+   "variants": [
+    "maturational theory"
+   ]
+  },
+  {
+   "label": "Meaning-making",
+   "variants": [
+    "meaning-making"
+   ]
+  },
+  {
+   "label": "Measurement validity",
+   "variants": [
+    "measurement validity"
+   ]
+  },
+  {
+   "label": "Media multitasking",
+   "variants": [
+    "media multitasking"
+   ]
+  },
+  {
+   "label": "Medical transition",
+   "variants": [
+    "medical transition"
+   ]
+  },
+  {
+   "label": "Melatonin",
+   "variants": [
+    "melatonin"
+   ]
+  },
+  {
+   "label": "Mentalising",
+   "variants": [
+    "mentalising"
+   ]
+  },
+  {
+   "label": "Mesosystem",
+   "variants": [
+    "mesosystem"
+   ]
+  },
+  {
+   "label": "Metacognition",
+   "variants": [
+    "metacognition"
+   ]
+  },
+  {
+   "label": "Microsystem",
+   "variants": [
+    "microsystem"
+   ]
+  },
+  {
+   "label": "Middle adolescence",
+   "variants": [
+    "middle adolescence"
+   ]
+  },
+  {
+   "label": "Middle adolescence practice",
+   "variants": [
+    "middle adolescence practice"
+   ]
+  },
+  {
+   "label": "Minority stress",
+   "variants": [
+    "minority stress"
+   ]
+  },
+  {
+   "label": "Mood variability",
+   "variants": [
+    "mood variability"
+   ]
+  },
+  {
+   "label": "Moral identity",
+   "variants": [
+    "moral identity"
+   ]
+  },
+  {
+   "label": "Moral reasoning",
+   "variants": [
+    "moral reasoning"
+   ]
+  },
+  {
+   "label": "Motor development",
+   "variants": [
+    "motor development"
+   ]
+  },
+  {
+   "label": "Multi-agency working",
+   "variants": [
+    "multi-agency working"
+   ]
+  },
+  {
+   "label": "Multi-informant assessment",
+   "variants": [
+    "multi-informant assessment"
+   ]
+  },
+  {
+   "label": "Myelination",
+   "variants": [
+    "myelination"
+   ]
+  },
+  {
+   "label": "Narrative skill",
+   "variants": [
+    "narrative skill"
+   ]
+  },
+  {
+   "label": "Neighbourhood effects",
+   "variants": [
+    "neighbourhood effects"
+   ]
+  },
+  {
+   "label": "Neurodiversity",
+   "variants": [
+    "neurodiversity"
+   ]
+  },
+  {
+   "label": "Neuroplasticity",
+   "variants": [
+    "neuroplasticity"
+   ]
+  },
+  {
+   "label": "Nutrition",
+   "variants": [
+    "nutrition"
+   ]
+  },
+  {
+   "label": "Online exclusion",
+   "variants": [
+    "online exclusion"
+   ]
+  },
+  {
+   "label": "Online friendship",
+   "variants": [
+    "online friendship"
+   ]
+  },
+  {
+   "label": "Online learning",
+   "variants": [
+    "online learning"
+   ]
+  },
+  {
+   "label": "Opportunity structures",
+   "variants": [
+    "opportunity structures"
+   ]
+  },
+  {
+   "label": "Overtraining",
+   "variants": [
+    "overtraining"
+   ]
+  },
+  {
+   "label": "Parent collaboration",
+   "variants": [
+    "parent collaboration"
+   ]
+  },
+  {
+   "label": "Parent-adolescent conflict",
+   "variants": [
+    "parent-adolescent conflict"
+   ]
+  },
+  {
+   "label": "Parental monitoring",
+   "variants": [
+    "parental monitoring"
+   ]
+  },
+  {
+   "label": "Parental separation",
+   "variants": [
+    "parental separation"
+   ]
+  },
+  {
+   "label": "Parental warmth",
+   "variants": [
+    "parental warmth"
+   ]
+  },
+  {
+   "label": "Participant roles",
+   "variants": [
+    "participant roles"
+   ]
+  },
+  {
+   "label": "Participation",
+   "variants": [
+    "participation"
+   ]
+  },
+  {
+   "label": "Peer acceptance",
+   "variants": [
+    "peer acceptance"
+   ]
+  },
+  {
+   "label": "Peer crowds",
+   "variants": [
+    "peer crowds"
+   ]
+  },
+  {
+   "label": "Peer influence",
+   "variants": [
+    "peer influence"
+   ]
+  },
+  {
+   "label": "Peer norms",
+   "variants": [
+    "peer norms"
+   ]
+  },
+  {
+   "label": "Peer presence effect",
+   "variants": [
+    "peer presence effect"
+   ]
+  },
+  {
+   "label": "Peer rejection",
+   "variants": [
+    "peer rejection"
+   ]
+  },
+  {
+   "label": "Peer relationships",
+   "variants": [
+    "peer relationships"
+   ]
+  },
+  {
+   "label": "Personal fable",
+   "variants": [
+    "personal fable"
+   ]
+  },
+  {
+   "label": "Perspective taking",
+   "variants": [
+    "perspective taking"
+   ]
+  },
+  {
+   "label": "Physical literacy",
+   "variants": [
+    "physical literacy"
+   ]
+  },
+  {
+   "label": "Popularity",
+   "variants": [
+    "popularity"
+   ]
+  },
+  {
+   "label": "Portfolio assessment",
+   "variants": [
+    "portfolio assessment"
+   ]
+  },
+  {
+   "label": "Positive youth development",
+   "variants": [
+    "positive youth development"
+   ]
+  },
+  {
+   "label": "Possible selves",
+   "variants": [
+    "possible selves"
+   ]
+  },
+  {
+   "label": "Post-traumatic growth",
+   "variants": [
+    "post-traumatic growth"
+   ]
+  },
+  {
+   "label": "Postvention",
+   "variants": [
+    "postvention"
+   ]
+  },
+  {
+   "label": "Pragmatics",
+   "variants": [
+    "pragmatics"
+   ]
+  },
+  {
+   "label": "Prefrontal cortex",
+   "variants": [
+    "prefrontal cortex"
+   ]
+  },
+  {
+   "label": "Prevention science",
+   "variants": [
+    "prevention science"
+   ]
+  },
+  {
+   "label": "Problem behaviour theory",
+   "variants": [
+    "problem behaviour theory"
+   ]
+  },
+  {
+   "label": "Problem-focused coping",
+   "variants": [
+    "problem-focused coping"
+   ]
+  },
+  {
+   "label": "Processing speed",
+   "variants": [
+    "processing speed"
+   ]
+  },
+  {
+   "label": "Professional boundaries",
+   "variants": [
+    "professional boundaries"
+   ]
+  },
+  {
+   "label": "Programme evaluation",
+   "variants": [
+    "programme evaluation"
+   ]
+  },
+  {
+   "label": "Prosocial behaviour",
+   "variants": [
+    "prosocial behaviour"
+   ]
+  },
+  {
+   "label": "Protective factors",
+   "variants": [
+    "protective factors"
+   ]
+  },
+  {
+   "label": "Proximity seeking",
+   "variants": [
+    "proximity seeking"
+   ]
+  },
+  {
+   "label": "Psychological control",
+   "variants": [
+    "psychological control"
+   ]
+  },
+  {
+   "label": "Psychosexual theory",
+   "variants": [
+    "psychosexual theory"
+   ]
+  },
+  {
+   "label": "Psychosocial stages",
+   "variants": [
+    "psychosocial stages"
+   ]
+  },
+  {
+   "label": "Pubertal timing",
+   "variants": [
+    "pubertal timing"
+   ]
+  },
+  {
+   "label": "Puberty",
+   "variants": [
+    "puberty"
+   ]
+  },
+  {
+   "label": "Purpose",
+   "variants": [
+    "purpose"
+   ]
+  },
+  {
+   "label": "Reappraisal",
+   "variants": [
+    "reappraisal"
+   ]
+  },
+  {
+   "label": "Records for minors",
+   "variants": [
+    "records for minors"
+   ]
+  },
+  {
+   "label": "Reflective practice",
+   "variants": [
+    "reflective practice"
+   ]
+  },
+  {
+   "label": "Reflective thinking",
+   "variants": [
+    "reflective thinking"
+   ]
+  },
+  {
+   "label": "Relationship quality",
+   "variants": [
+    "relationship quality"
+   ]
+  },
+  {
+   "label": "Replication",
+   "variants": [
+    "replication"
+   ]
+  },
+  {
+   "label": "Research ethics with minors",
+   "variants": [
+    "research ethics with minors"
+   ]
+  },
+  {
+   "label": "Resilience",
+   "variants": [
+    "resilience"
+   ]
+  },
+  {
+   "label": "Responsive services",
+   "variants": [
+    "responsive services"
+   ]
+  },
+  {
+   "label": "Restorative practice",
+   "variants": [
+    "restorative practice"
+   ]
+  },
+  {
+   "label": "Reward sensitivity",
+   "variants": [
+    "reward sensitivity"
+   ]
+  },
+  {
+   "label": "Risk assessment",
+   "variants": [
+    "risk assessment"
+   ]
+  },
+  {
+   "label": "Risk competence",
+   "variants": [
+    "risk competence"
+   ]
+  },
+  {
+   "label": "Risk perception",
+   "variants": [
+    "risk perception"
+   ]
+  },
+  {
+   "label": "Risk-taking",
+   "variants": [
+    "risk-taking"
+   ]
+  },
+  {
+   "label": "Romantic relationships",
+   "variants": [
+    "romantic relationships"
+   ]
+  },
+  {
+   "label": "Rumination",
+   "variants": [
+    "rumination"
+   ]
+  },
+  {
+   "label": "Safeguarding",
+   "variants": [
+    "safeguarding"
+   ]
+  },
+  {
+   "label": "Safety planning",
+   "variants": [
+    "safety planning"
+   ]
+  },
+  {
+   "label": "Scaffolding",
+   "variants": [
+    "scaffolding"
+   ]
+  },
+  {
+   "label": "School belonging",
+   "variants": [
+    "school belonging"
+   ]
+  },
+  {
+   "label": "School climate",
+   "variants": [
+    "school climate"
+   ]
+  },
+  {
+   "label": "School connectedness",
+   "variants": [
+    "school connectedness"
+   ]
+  },
+  {
+   "label": "School engagement",
+   "variants": [
+    "school engagement"
+   ]
+  },
+  {
+   "label": "School partnership",
+   "variants": [
+    "school partnership"
+   ]
+  },
+  {
+   "label": "School safety",
+   "variants": [
+    "school safety"
+   ]
+  },
+  {
+   "label": "School start times",
+   "variants": [
+    "school start times"
+   ]
+  },
+  {
+   "label": "School transitions",
+   "variants": [
+    "school transitions"
+   ]
+  },
+  {
+   "label": "Screening ethics",
+   "variants": [
+    "screening ethics"
+   ]
+  },
+  {
+   "label": "Screening measures",
+   "variants": [
+    "screening measures"
+   ]
+  },
+  {
+   "label": "Secondary sex characteristics",
+   "variants": [
+    "secondary sex characteristics"
+   ]
+  },
+  {
+   "label": "Secure base",
+   "variants": [
+    "secure base"
+   ]
+  },
+  {
+   "label": "Selective prevention",
+   "variants": [
+    "selective prevention"
+   ]
+  },
+  {
+   "label": "Self-concept",
+   "variants": [
+    "self-concept"
+   ]
+  },
+  {
+   "label": "Self-determination",
+   "variants": [
+    "self-determination"
+   ]
+  },
+  {
+   "label": "Self-discrepancy",
+   "variants": [
+    "self-discrepancy"
+   ]
+  },
+  {
+   "label": "Self-esteem",
+   "variants": [
+    "self-esteem"
+   ]
+  },
+  {
+   "label": "Self-governance",
+   "variants": [
+    "self-governance"
+   ]
+  },
+  {
+   "label": "Self-harm",
+   "variants": [
+    "self-harm"
+   ]
+  },
+  {
+   "label": "Self-report bias",
+   "variants": [
+    "self-report bias"
+   ]
+  },
+  {
+   "label": "Self-worth",
+   "variants": [
+    "self-worth"
+   ]
+  },
+  {
+   "label": "Sensation seeking",
+   "variants": [
+    "sensation seeking"
+   ]
+  },
+  {
+   "label": "Sexual health",
+   "variants": [
+    "sexual health"
+   ]
+  },
+  {
+   "label": "Sexual maturation",
+   "variants": [
+    "sexual maturation"
+   ]
+  },
+  {
+   "label": "Sexual orientation development",
+   "variants": [
+    "sexual orientation development"
+   ]
+  },
+  {
+   "label": "Shyness",
+   "variants": [
+    "shyness"
+   ]
+  },
+  {
+   "label": "Sleep hygiene",
+   "variants": [
+    "sleep hygiene"
+   ]
+  },
+  {
+   "label": "Sleep restriction",
+   "variants": [
+    "sleep restriction"
+   ]
+  },
+  {
+   "label": "Social anxiety",
+   "variants": [
+    "social anxiety"
+   ]
+  },
+  {
+   "label": "Social comparison",
+   "variants": [
+    "social comparison"
+   ]
+  },
+  {
+   "label": "Social comparison online",
+   "variants": [
+    "social comparison online"
+   ]
+  },
+  {
+   "label": "Social inference",
+   "variants": [
+    "social inference"
+   ]
+  },
+  {
+   "label": "Social learning theory",
+   "variants": [
+    "social learning theory"
+   ]
+  },
+  {
+   "label": "Social media use",
+   "variants": [
+    "social media use"
+   ]
+  },
+  {
+   "label": "Social understanding",
+   "variants": [
+    "social understanding"
+   ]
+  },
+  {
+   "label": "Social withdrawal",
+   "variants": [
+    "social withdrawal"
+   ]
+  },
+  {
+   "label": "Sport dropout",
+   "variants": [
+    "sport dropout"
+   ]
+  },
+  {
+   "label": "Sport participation",
+   "variants": [
+    "sport participation"
+   ]
+  },
+  {
+   "label": "Stage-environment fit",
+   "variants": [
+    "stage-environment fit"
+   ]
+  },
+  {
+   "label": "Stigma",
+   "variants": [
+    "stigma"
+   ]
+  },
+  {
+   "label": "Storm and stress",
+   "variants": [
+    "storm and stress"
+   ]
+  },
+  {
+   "label": "Stress appraisal",
+   "variants": [
+    "stress appraisal"
+   ]
+  },
+  {
+   "label": "Stress generation",
+   "variants": [
+    "stress generation"
+   ]
+  },
+  {
+   "label": "Substance initiation",
+   "variants": [
+    "substance initiation"
+   ]
+  },
+  {
+   "label": "Suicidal ideation",
+   "variants": [
+    "suicidal ideation"
+   ]
+  },
+  {
+   "label": "Synaptic pruning",
+   "variants": [
+    "synaptic pruning"
+   ]
+  },
+  {
+   "label": "Teacher relationships",
+   "variants": [
+    "teacher relationships"
+   ]
+  },
+  {
+   "label": "Theory of mind",
+   "variants": [
+    "theory of mind"
+   ]
+  },
+  {
+   "label": "Thriving",
+   "variants": [
+    "thriving"
+   ]
+  },
+  {
+   "label": "Toxic stress",
+   "variants": [
+    "toxic stress"
+   ]
+  },
+  {
+   "label": "Transition planning",
+   "variants": [
+    "transition planning"
+   ]
+  },
+  {
+   "label": "Transition support",
+   "variants": [
+    "transition support"
+   ]
+  },
+  {
+   "label": "Trauma-informed practice",
+   "variants": [
+    "trauma-informed practice"
+   ]
+  },
+  {
+   "label": "Treatment adherence",
+   "variants": [
+    "treatment adherence"
+   ]
+  },
+  {
+   "label": "Turning points",
+   "variants": [
+    "turning points"
+   ]
+  },
+  {
+   "label": "Twice-exceptionality",
+   "variants": [
+    "twice-exceptionality"
+   ]
+  },
+  {
+   "label": "Universal prevention",
+   "variants": [
+    "universal prevention"
+   ]
+  },
+  {
+   "label": "Use trajectories",
+   "variants": [
+    "use trajectories"
+   ]
+  },
+  {
+   "label": "Values clarification",
+   "variants": [
+    "values clarification"
+   ]
+  },
+  {
+   "label": "Victimisation",
+   "variants": [
+    "victimisation"
+   ]
+  },
+  {
+   "label": "Vocational identity",
+   "variants": [
+    "vocational identity"
+   ]
+  },
+  {
+   "label": "Weight stigma",
+   "variants": [
+    "weight stigma"
+   ]
+  },
+  {
+   "label": "Working memory",
+   "variants": [
+    "working memory"
+   ]
+  },
+  {
+   "label": "Worldview development",
+   "variants": [
+    "worldview development"
+   ]
+  },
+  {
+   "label": "Youth justice",
+   "variants": [
+    "youth justice"
+   ]
+  },
+  {
+   "label": "Youth voice",
+   "variants": [
+    "youth voice"
+   ]
+  }
+ ]
+}
