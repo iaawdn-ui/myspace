@@ -1,0 +1,3131 @@
+{
+ "terms": [
+  {
+   "label": "Common factors",
+   "variants": [
+    "common factors"
+   ]
+  },
+  {
+   "label": "Alliance rupture and repair",
+   "variants": [
+    "alliance rupture",
+    "rupture and repair",
+    "working alliance"
+   ]
+  },
+  {
+   "label": "Therapeutic alliance",
+   "variants": [
+    "therapeutic alliance"
+   ]
+  },
+  {
+   "label": "Empathy",
+   "variants": [
+    "empathy",
+    "empathic"
+   ]
+  },
+  {
+   "label": "Authenticity",
+   "variants": [
+    "authenticity",
+    "congruence"
+   ]
+  },
+  {
+   "label": "Unconditional positive regard",
+   "variants": [
+    "unconditional positive regard"
+   ]
+  },
+  {
+   "label": "Person-centered theory",
+   "variants": [
+    "person-centered theory",
+    "client-centered",
+    "Rogerian"
+   ]
+  },
+  {
+   "label": "Congruence",
+   "variants": [
+    "congruence"
+   ]
+  },
+  {
+   "label": "Reflection of feeling",
+   "variants": [
+    "reflection of feeling"
+   ]
+  },
+  {
+   "label": "Paraphrase",
+   "variants": [
+    "paraphrasing",
+    "paraphrase"
+   ]
+  },
+  {
+   "label": "Summarization",
+   "variants": [
+    "summarization"
+   ]
+  },
+  {
+   "label": "Case conceptualization",
+   "variants": [
+    "case conceptualization",
+    "case formulation"
+   ]
+  },
+  {
+   "label": "Treatment plan",
+   "variants": [
+    "treatment plan",
+    "treatment planning"
+   ]
+  },
+  {
+   "label": "Mechanism of change",
+   "variants": [
+    "mechanism of change"
+   ]
+  },
+  {
+   "label": "Manualized treatment",
+   "variants": [
+    "treatment manual",
+    "manualized"
+   ]
+  },
+  {
+   "label": "Evidence-based practice",
+   "variants": [
+    "evidence-based practice",
+    "evidence-based counseling"
+   ]
+  },
+  {
+   "label": "Best practice",
+   "variants": [
+    "best practice"
+   ]
+  },
+  {
+   "label": "Ethical standards",
+   "variants": [
+    "ethical standards",
+    "code of ethics",
+    "ethical code"
+   ]
+  },
+  {
+   "label": "Informed consent",
+   "variants": [
+    "informed consent"
+   ]
+  },
+  {
+   "label": "Assent",
+   "variants": [
+    "assent"
+   ]
+  },
+  {
+   "label": "Confidentiality",
+   "variants": [
+    "confidentiality"
+   ]
+  },
+  {
+   "label": "Mandatory disclosure",
+   "variants": [
+    "mandatory disclosure",
+    "limits of confidentiality"
+   ]
+  },
+  {
+   "label": "Boundary",
+   "variants": [
+    "boundaries",
+    "boundary"
+   ]
+  },
+  {
+   "label": "Multicultural competence",
+   "variants": [
+    "multicultural competence",
+    "cultural competence"
+   ]
+  },
+  {
+   "label": "Cultural humility",
+   "variants": [
+    "cultural humility"
+   ]
+  },
+  {
+   "label": "Supervision",
+   "variants": [
+    "supervision"
+   ]
+  },
+  {
+   "label": "Consultation",
+   "variants": [
+    "consultation"
+   ]
+  },
+  {
+   "label": "Assessment",
+   "variants": [
+    "assessment"
+   ]
+  },
+  {
+   "label": "Formative assessment",
+   "variants": [
+    "formative assessment"
+   ]
+  },
+  {
+   "label": "Summative assessment",
+   "variants": [
+    "summative assessment"
+   ]
+  },
+  {
+   "label": "Reliability",
+   "variants": [
+    "reliability"
+   ]
+  },
+  {
+   "label": "Validity",
+   "variants": [
+    "validity"
+   ]
+  },
+  {
+   "label": "Standardization",
+   "variants": [
+    "standardization",
+    "standardised"
+   ]
+  },
+  {
+   "label": "Norm-referenced assessment",
+   "variants": [
+    "norm-referenced"
+   ]
+  },
+  {
+   "label": "Criterion-referenced assessment",
+   "variants": [
+    "criterion-referenced"
+   ]
+  },
+  {
+   "label": "Treatment outcome",
+   "variants": [
+    "treatment outcome",
+    "outcome research"
+   ]
+  },
+  {
+   "label": "Effect size",
+   "variants": [
+    "effect size"
+   ]
+  },
+  {
+   "label": "Meta-analysis",
+   "variants": [
+    "meta-analysis"
+   ]
+  },
+  {
+   "label": "Randomized controlled trial",
+   "variants": [
+    "randomized controlled trial",
+    "randomised controlled trial"
+   ]
+  },
+  {
+   "label": "Single-case design",
+   "variants": [
+    "single-case"
+   ]
+  },
+  {
+   "label": "Placebo",
+   "variants": [
+    "placebo"
+   ]
+  },
+  {
+   "label": "Expectancy effect",
+   "variants": [
+    "expectancy effect",
+    "expectancies"
+   ]
+  },
+  {
+   "label": "Hypothesis testing",
+   "variants": [
+    "hypothesis testing",
+    "null hypothesis"
+   ]
+  },
+  {
+   "label": "Effectiveness and efficacy",
+   "variants": [
+    "efficacy",
+    "effectiveness"
+   ]
+  },
+  {
+   "label": "Dropout",
+   "variants": [
+    "dropout",
+    "drop-out"
+   ]
+  },
+  {
+   "label": "Treatment fidelity",
+   "variants": [
+    "fidelity"
+   ]
+  },
+  {
+   "label": "Competence",
+   "variants": [
+    "competence",
+    "competency"
+   ]
+  },
+  {
+   "label": "Self-efficacy",
+   "variants": [
+    "self-efficacy"
+   ]
+  },
+  {
+   "label": "Motivation",
+   "variants": [
+    "motivation",
+    "motivational"
+   ]
+  },
+  {
+   "label": "Readiness for change",
+   "variants": [
+    "readiness for change"
+   ]
+  },
+  {
+   "label": "Change talk",
+   "variants": [
+    "change talk"
+   ]
+  },
+  {
+   "label": "Sustain talk",
+   "variants": [
+    "sustain talk"
+   ]
+  },
+  {
+   "label": "Relapse prevention",
+   "variants": [
+    "relapse prevention"
+   ]
+  },
+  {
+   "label": "Stage of change",
+   "variants": [
+    "stages of change",
+    "transtheoretical"
+   ]
+  },
+  {
+   "label": "Decisional balance",
+   "variants": [
+    "decisional balance"
+   ]
+  },
+  {
+   "label": "Goal setting",
+   "variants": [
+    "goal setting"
+   ]
+  },
+  {
+   "label": "Self-monitoring",
+   "variants": [
+    "self-monitoring"
+   ]
+  },
+  {
+   "label": "Homework",
+   "variants": [
+    "homework",
+    "between-session practice"
+   ]
+  },
+  {
+   "label": "Termination",
+   "variants": [
+    "termination"
+   ]
+  },
+  {
+   "label": "Abrupt termination",
+   "variants": [
+    "abrupt termination",
+    "premature termination"
+   ]
+  },
+  {
+   "label": "Transfer",
+   "variants": [
+    "transfer of counseling",
+    "referral and transfer"
+   ]
+  },
+  {
+   "label": "Crisis intervention",
+   "variants": [
+    "crisis intervention"
+   ]
+  },
+  {
+   "label": "Safety planning",
+   "variants": [
+    "safety plan"
+   ]
+  },
+  {
+   "label": "Risk assessment",
+   "variants": [
+    "risk assessment"
+   ]
+  },
+  {
+   "label": "Trauma-informed care",
+   "variants": [
+    "trauma-informed"
+   ]
+  },
+  {
+   "label": "Trauma",
+   "variants": [
+    "trauma"
+   ]
+  },
+  {
+   "label": "Complex trauma",
+   "variants": [
+    "complex trauma"
+   ]
+  },
+  {
+   "label": "Adverse childhood experiences",
+   "variants": [
+    "adverse childhood experiences"
+   ]
+  },
+  {
+   "label": "Neuroception",
+   "variants": [
+    "neuroception"
+   ]
+  },
+  {
+   "label": "Polyvagal theory",
+   "variants": [
+    "polyvagal"
+   ]
+  },
+  {
+   "label": "Window of tolerance",
+   "variants": [
+    "window of tolerance"
+   ]
+  },
+  {
+   "label": "Grounding",
+   "variants": [
+    "grounding"
+   ]
+  },
+  {
+   "label": "Stabilization",
+   "variants": [
+    "stabilization",
+    "stabilisation"
+   ]
+  },
+  {
+   "label": "Emotional regulation",
+   "variants": [
+    "emotion regulation",
+    "emotional regulation"
+   ]
+  },
+  {
+   "label": "Emotion-focused therapy",
+   "variants": [
+    "emotion-focused therapy"
+   ]
+  },
+  {
+   "label": "Change point",
+   "variants": [
+    "change point"
+   ]
+  },
+  {
+   "label": "Attachment",
+   "variants": [
+    "attachment"
+   ]
+  },
+  {
+   "label": "Attachment theory",
+   "variants": [
+    "attachment theory"
+   ]
+  },
+  {
+   "label": "Secure base",
+   "variants": [
+    "secure base"
+   ]
+  },
+  {
+   "label": "Avoidant attachment",
+   "variants": [
+    "avoidant attachment"
+   ]
+  },
+  {
+   "label": "Ambivalent attachment",
+   "variants": [
+    "ambivalent attachment"
+   ]
+  },
+  {
+   "label": "Disorganized attachment",
+   "variants": [
+    "disorganized attachment"
+   ]
+  },
+  {
+   "label": "Caregiver",
+   "variants": [
+    "caregiver",
+    "parent",
+    "guardian"
+   ]
+  },
+  {
+   "label": "Mentalization",
+   "variants": [
+    "mentalization",
+    "mentalizing",
+    "mentalisation"
+   ]
+  },
+  {
+   "label": "Epistemic trust",
+   "variants": [
+    "epistemic trust"
+   ]
+  },
+  {
+   "label": "Reflective functioning",
+   "variants": [
+    "reflective functioning"
+   ]
+  },
+  {
+   "label": "Internal Family Systems",
+   "variants": [
+    "internal family systems",
+    "IFS"
+   ]
+  },
+  {
+   "label": "Parts system",
+   "variants": [
+    "parts system",
+    "parts"
+   ]
+  },
+  {
+   "label": "Self as a system",
+   "variants": [
+    "self as a system"
+   ]
+  },
+  {
+   "label": "Unblending",
+   "variants": [
+    "unblending",
+    "blending"
+   ]
+  },
+  {
+   "label": "Structural dissociation",
+   "variants": [
+    "structural dissociation"
+   ]
+  },
+  {
+   "label": "Narrative therapy",
+   "variants": [
+    "narrative therapy"
+   ]
+  },
+  {
+   "label": "Externalization",
+   "variants": [
+    "externalization",
+    "externalisation"
+   ]
+  },
+  {
+   "label": "Re-authoring",
+   "variants": [
+    "re-authoring",
+    "reauthoring"
+   ]
+  },
+  {
+   "label": "Unique outcomes",
+   "variants": [
+    "unique outcomes"
+   ]
+  },
+  {
+   "label": "Solution-focused brief therapy",
+   "variants": [
+    "solution-focused"
+   ]
+  },
+  {
+   "label": "Exception",
+   "variants": [
+    "exception question",
+    "exceptions"
+   ]
+  },
+  {
+   "label": "Miracle question",
+   "variants": [
+    "miracle question"
+   ]
+  },
+  {
+   "label": "Scaling",
+   "variants": [
+    "scaling question"
+   ]
+  },
+  {
+   "label": "Family systems theory",
+   "variants": [
+    "family systems theory"
+   ]
+  },
+  {
+   "label": "Bowen family systems theory",
+   "variants": [
+    "Bowen"
+   ]
+  },
+  {
+   "label": "Differentiation of self",
+   "variants": [
+    "differentiation of self",
+    "differentiation"
+   ]
+  },
+  {
+   "label": "Triangulation",
+   "variants": [
+    "triangulation",
+    "triangle"
+   ]
+  },
+  {
+   "label": "Nuclear family emotional process",
+   "variants": [
+    "nuclear family emotional process"
+   ]
+  },
+  {
+   "label": "Genogram",
+   "variants": [
+    "genogram"
+   ]
+  },
+  {
+   "label": "Family projection process",
+   "variants": [
+    "family projection process"
+   ]
+  },
+  {
+   "label": "Emotional cutoff",
+   "variants": [
+    "emotional cutoff"
+   ]
+  },
+  {
+   "label": "Structural family therapy",
+   "variants": [
+    "structural family therapy"
+   ]
+  },
+  {
+   "label": "Minuchin",
+   "variants": [
+    "Minuchin"
+   ]
+  },
+  {
+   "label": "Boundaries",
+   "variants": [
+    "boundaries",
+    "boundary rules"
+   ]
+  },
+  {
+   "label": "Subsystem",
+   "variants": [
+    "subsystem"
+   ]
+  },
+  {
+   "label": "Enactment",
+   "variants": [
+    "enactment"
+   ]
+  },
+  {
+   "label": "Strategic family therapy",
+   "variants": [
+    "strategic family therapy"
+   ]
+  },
+  {
+   "label": "Communication theory",
+   "variants": [
+    "communication theory"
+   ]
+  },
+  {
+   "label": "Double bind",
+   "variants": [
+    "double bind"
+   ]
+  },
+  {
+   "label": "Problem-maintaining sequence",
+   "variants": [
+    "problem-maintaining sequence"
+   ]
+  },
+  {
+   "label": "Family therapy with adolescents",
+   "variants": [
+    "family therapy with adolescents"
+   ]
+  },
+  {
+   "label": "Parent management training",
+   "variants": [
+    "parent management training"
+   ]
+  },
+  {
+   "label": "Family-based therapy",
+   "variants": [
+    "family-based therapy"
+   ]
+  },
+  {
+   "label": "Multisystemic therapy",
+   "variants": [
+    "multisystemic therapy"
+   ]
+  },
+  {
+   "label": "Solution-focused practice",
+   "variants": [
+    "strength-based"
+   ]
+  },
+  {
+   "label": "Cognitive therapy",
+   "variants": [
+    "cognitive therapy"
+   ]
+  },
+  {
+   "label": "Beck",
+   "variants": [
+    "Beck"
+   ]
+  },
+  {
+   "label": "Cognitive triad",
+   "variants": [
+    "cognitive triad"
+   ]
+  },
+  {
+   "label": "Automatic thoughts",
+   "variants": [
+    "automatic thoughts"
+   ]
+  },
+  {
+   "label": "Core beliefs",
+   "variants": [
+    "core beliefs"
+   ]
+  },
+  {
+   "label": "Intermediate beliefs",
+   "variants": [
+    "intermediate beliefs"
+   ]
+  },
+  {
+   "label": "Thought record",
+   "variants": [
+    "thought record"
+   ]
+  },
+  {
+   "label": "Cognitive conceptualization",
+   "variants": [
+    "cognitive conceptualization"
+   ]
+  },
+  {
+   "label": "Schema",
+   "variants": [
+    "schema"
+   ]
+  },
+  {
+   "label": "Schema therapy",
+   "variants": [
+    "schema therapy"
+   ]
+  },
+  {
+   "label": "Early maladaptive schema",
+   "variants": [
+    "early maladaptive schema"
+   ]
+  },
+  {
+   "label": "Schema domain",
+   "variants": [
+    "schema domain"
+   ]
+  },
+  {
+   "label": "Coping style",
+   "variants": [
+    "coping style"
+   ]
+  },
+  {
+   "label": "Acceptance and commitment therapy",
+   "variants": [
+    "acceptance and commitment therapy",
+    "ACT"
+   ]
+  },
+  {
+   "label": "Psychological flexibility",
+   "variants": [
+    "psychological flexibility"
+   ]
+  },
+  {
+   "label": "Hexaflex",
+   "variants": [
+    "hexaflex"
+   ]
+  },
+  {
+   "label": "Cognitive defusion",
+   "variants": [
+    "defusion",
+    "cognitive fusion"
+   ]
+  },
+  {
+   "label": "Values clarification",
+   "variants": [
+    "values clarification",
+    "values work"
+   ]
+  },
+  {
+   "label": "Dialectical behavior therapy",
+   "variants": [
+    "dialectical behavior therapy",
+    "dialectical behaviour therapy"
+   ]
+  },
+  {
+   "label": "Biosocial theory",
+   "variants": [
+    "biosocial"
+   ]
+  },
+  {
+   "label": "Linehan",
+   "variants": [
+    "Linehan"
+   ]
+  },
+  {
+   "label": "Distress tolerance",
+   "variants": [
+    "distress tolerance"
+   ]
+  },
+  {
+   "label": "Emotion regulation skills",
+   "variants": [
+    "emotion regulation skills"
+   ]
+  },
+  {
+   "label": "Interpersonal effectiveness",
+   "variants": [
+    "interpersonal effectiveness"
+   ]
+  },
+  {
+   "label": "Mindfulness",
+   "variants": [
+    "mindfulness"
+   ]
+  },
+  {
+   "label": "Mindfulness-based cognitive therapy",
+   "variants": [
+    "mindfulness-based cognitive therapy"
+   ]
+  },
+  {
+   "label": "Mindfulness-based stress reduction",
+   "variants": [
+    "mindfulness-based stress reduction"
+   ]
+  },
+  {
+   "label": "Decentering",
+   "variants": [
+    "decentering",
+    "decentring"
+   ]
+  },
+  {
+   "label": "Attentional training",
+   "variants": [
+    "attentional training"
+   ]
+  },
+  {
+   "label": "Behavior therapy",
+   "variants": [
+    "behavior therapy",
+    "behaviour therapy"
+   ]
+  },
+  {
+   "label": "Applied behavior analysis",
+   "variants": [
+    "applied behavior analysis"
+   ]
+  },
+  {
+   "label": "Functional analysis",
+   "variants": [
+    "functional analysis"
+   ]
+  },
+  {
+   "label": "Antecedent behavior consequence",
+   "variants": [
+    "antecedent"
+   ]
+  },
+  {
+   "label": "Reinforcement",
+   "variants": [
+    "reinforcement",
+    "reinforcer"
+   ]
+  },
+  {
+   "label": "Extinction",
+   "variants": [
+    "extinction"
+   ]
+  },
+  {
+   "label": "Shaping",
+   "variants": [
+    "shaping"
+   ]
+  },
+  {
+   "label": "Schedules of reinforcement",
+   "variants": [
+    "schedule of reinforcement",
+    "schedules of reinforcement"
+   ]
+  },
+  {
+   "label": "Token economy",
+   "variants": [
+    "token economy",
+    "token system"
+   ]
+  },
+  {
+   "label": "Negative reinforcement",
+   "variants": [
+    "negative reinforcement"
+   ]
+  },
+  {
+   "label": "Positive punishment",
+   "variants": [
+    "positive punishment"
+   ]
+  },
+  {
+   "label": "Differential reinforcement",
+   "variants": [
+    "differential reinforcement"
+   ]
+  },
+  {
+   "label": "Contingency management",
+   "variants": [
+    "contingency management"
+   ]
+  },
+  {
+   "label": "Behavioral activation",
+   "variants": [
+    "behavioral activation",
+    "behavioural activation"
+   ]
+  },
+  {
+   "label": "Activity monitoring",
+   "variants": [
+    "activity monitoring",
+    "activity schedule"
+   ]
+  },
+  {
+   "label": "Pleasure mastery",
+   "variants": [
+    "pleasure"
+   ]
+  },
+  {
+   "label": "Exposure therapy",
+   "variants": [
+    "exposure therapy",
+    "exposure"
+   ]
+  },
+  {
+   "label": "Systematic desensitization",
+   "variants": [
+    "systematic desensitization",
+    "systematic desensitisation"
+   ]
+  },
+  {
+   "label": "In vivo exposure",
+   "variants": [
+    "in vivo"
+   ]
+  },
+  {
+   "label": "Imaginal exposure",
+   "variants": [
+    "imaginal exposure"
+   ]
+  },
+  {
+   "label": "Modeling",
+   "variants": [
+    "modeling",
+    "modelling"
+   ]
+  },
+  {
+   "label": "Behavioral skills training",
+   "variants": [
+    "behavioral skills training"
+   ]
+  },
+  {
+   "label": "Role play",
+   "variants": [
+    "role play",
+    "role-play"
+   ]
+  },
+  {
+   "label": "Social learning theory",
+   "variants": [
+    "social learning theory"
+   ]
+  },
+  {
+   "label": "Reciprocal determinism",
+   "variants": [
+    "reciprocal determinism"
+   ]
+  },
+  {
+   "label": "Bandura",
+   "variants": [
+    "Bandura"
+   ]
+  },
+  {
+   "label": "Modeling and observation",
+   "variants": [
+    "observational learning"
+   ]
+  },
+  {
+   "label": "Reinforcement history",
+   "variants": [
+    "reinforcement history"
+   ]
+  },
+  {
+   "label": "Existential therapy",
+   "variants": [
+    "existential therapy"
+   ]
+  },
+  {
+   "label": "Yalom",
+   "variants": [
+    "Yalom"
+   ]
+  },
+  {
+   "label": "May",
+   "variants": [
+    "Rollo May"
+   ]
+  },
+  {
+   "label": "Frankl",
+   "variants": [
+    "Frankl"
+   ]
+  },
+  {
+   "label": "Existential anxiety",
+   "variants": [
+    "existential anxiety",
+    "existential isolation",
+    "existential guilt"
+   ]
+  },
+  {
+   "label": "Authentic existence",
+   "variants": [
+    "authentic existence"
+   ]
+  },
+  {
+   "label": "Meaning",
+   "variants": [
+    "meaning",
+    "meaning-making"
+   ]
+  },
+  {
+   "label": "Gestalt therapy",
+   "variants": [
+    "Gestalt therapy",
+    "Gestalt"
+   ]
+  },
+  {
+   "label": "Perls",
+   "variants": [
+    "Perls"
+   ]
+  },
+  {
+   "label": "Here and now",
+   "variants": [
+    "here and now",
+    "here-and-now"
+   ]
+  },
+  {
+   "label": "Empty chair",
+   "variants": [
+    "empty chair"
+   ]
+  },
+  {
+   "label": "Contact",
+   "variants": [
+    "contact"
+   ]
+  },
+  {
+   "label": "Focusing",
+   "variants": [
+    "focusing"
+   ]
+  },
+  {
+   "label": "Felt sense",
+   "variants": [
+    "felt sense",
+    "felt meaning"
+   ]
+  },
+  {
+   "label": "Gendlin",
+   "variants": [
+    "Gendlin"
+   ]
+  },
+  {
+   "label": "Transactional analysis",
+   "variants": [
+    "transactional analysis"
+   ]
+  },
+  {
+   "label": "Berne",
+   "variants": [
+    "Berne"
+   ]
+  },
+  {
+   "label": "Ego state",
+   "variants": [
+    "ego state",
+    "ego-state"
+   ]
+  },
+  {
+   "label": "Transactional analysis ego states",
+   "variants": [
+    "parent ego state",
+    "adult ego state",
+    "child ego state"
+   ]
+  },
+  {
+   "label": "Script",
+   "variants": [
+    "script"
+   ]
+  },
+  {
+   "label": "Drama triangle",
+   "variants": [
+    "drama triangle"
+   ]
+  },
+  {
+   "label": "Passivity",
+   "variants": [
+    "passivity"
+   ]
+  },
+  {
+   "label": "Karpman",
+   "variants": [
+    "Karpman"
+   ]
+  },
+  {
+   "label": "EMDR",
+   "variants": [
+    "EMDR"
+   ]
+  },
+  {
+   "label": "Shapiro",
+   "variants": [
+    "Shapiro"
+   ]
+  },
+  {
+   "label": "Bilateral stimulation",
+   "variants": [
+    "bilateral stimulation"
+   ]
+  },
+  {
+   "label": "Adaptive information processing",
+   "variants": [
+    "adaptive information processing"
+   ]
+  },
+  {
+   "label": "Eye movements",
+   "variants": [
+    "eye movements"
+   ]
+  },
+  {
+   "label": "Trauma phases",
+   "variants": [
+    "three-phase model",
+    "phase-oriented"
+   ]
+  },
+  {
+   "label": "Herman",
+   "variants": [
+    "Herman"
+   ]
+  },
+  {
+   "label": "Interpersonal psychotherapy",
+   "variants": [
+    "interpersonal psychotherapy"
+   ]
+  },
+  {
+   "label": "Klerman",
+   "variants": [
+    "Klerman"
+   ]
+  },
+  {
+   "label": "Social problem solving",
+   "variants": [
+    "social problem solving"
+   ]
+  },
+  {
+   "label": "Interpersonal disputes",
+   "variants": [
+    "interpersonal dispute"
+   ]
+  },
+  {
+   "label": "Role transition",
+   "variants": [
+    "role transition"
+   ]
+  },
+  {
+   "label": "Somatic therapy",
+   "variants": [
+    "somatic therapy",
+    "somatic approach"
+   ]
+  },
+  {
+   "label": "Sensorimotor psychotherapy",
+   "variants": [
+    "sensorimotor"
+   ]
+  },
+  {
+   "label": "Autonomic nervous system",
+   "variants": [
+    "autonomic nervous system"
+   ]
+  },
+  {
+   "label": "Sympathetic activation",
+   "variants": [
+    "sympathetic"
+   ]
+  },
+  {
+   "label": "Parasympathetic",
+   "variants": [
+    "parasympathetic"
+   ]
+  },
+  {
+   "label": "Vagal",
+   "variants": [
+    "vagal"
+   ]
+  },
+  {
+   "label": "Co-regulation",
+   "variants": [
+    "co-regulation",
+    "coregulation"
+   ]
+  },
+  {
+   "label": "Body-based intervention",
+   "variants": [
+    "body-based"
+   ]
+  },
+  {
+   "label": "Adolescent development",
+   "variants": [
+    "adolescent development"
+   ]
+  },
+  {
+   "label": "Identity development",
+   "variants": [
+    "identity development"
+   ]
+  },
+  {
+   "label": "Autonomy",
+   "variants": [
+    "autonomy",
+    "autonomous motivation"
+   ]
+  },
+  {
+   "label": "Risk-taking",
+   "variants": [
+    "risk-taking",
+    "risk taking"
+   ]
+  },
+  {
+   "label": "Peer relations",
+   "variants": [
+    "peer relations",
+    "peer group"
+   ]
+  },
+  {
+   "label": "Puberty",
+   "variants": [
+    "puberty"
+   ]
+  },
+  {
+   "label": "Prefrontal cortex",
+   "variants": [
+    "prefrontal cortex"
+   ]
+  },
+  {
+   "label": "Limbic system",
+   "variants": [
+    "limbic system"
+   ]
+  },
+  {
+   "label": "Amygdala",
+   "variants": [
+    "amygdala"
+   ]
+  },
+  {
+   "label": "Neuroplasticity",
+   "variants": [
+    "neuroplasticity"
+   ]
+  },
+  {
+   "label": "Brain development",
+   "variants": [
+    "brain development"
+   ]
+  },
+  {
+   "label": "Executive function",
+   "variants": [
+    "executive function"
+   ]
+  },
+  {
+   "label": "Temperament",
+   "variants": [
+    "temperament"
+   ]
+  },
+  {
+   "label": "Attachment classification",
+   "variants": [
+    "secure attachment",
+    "insecure attachment"
+   ]
+  },
+  {
+   "label": "Developmental systems theory",
+   "variants": [
+    "developmental systems theory"
+   ]
+  },
+  {
+   "label": "Bronfenbrenner",
+   "variants": [
+    "Bronfenbrenner"
+   ]
+  },
+  {
+   "label": "Ecological systems",
+   "variants": [
+    "ecological systems",
+    "microsystem",
+    "mesosystem",
+    "exosystem",
+    "macrosystem"
+   ]
+  },
+  {
+   "label": "Resilience",
+   "variants": [
+    "resilience"
+   ]
+  },
+  {
+   "label": "Protective factor",
+   "variants": [
+    "protective factor",
+    "protective factors"
+   ]
+  },
+  {
+   "label": "Risk factor",
+   "variants": [
+    "risk factor",
+    "risk factors"
+   ]
+  },
+  {
+   "label": "Masten",
+   "variants": [
+    "Masten"
+   ]
+  },
+  {
+   "label": "Strengths-based practice",
+   "variants": [
+    "strengths"
+   ]
+  },
+  {
+   "label": "Empowerment",
+   "variants": [
+    "empowerment"
+   ]
+  },
+  {
+   "label": "Psychodynamic theory",
+   "variants": [
+    "psychodynamic",
+    "object relations"
+   ]
+  },
+  {
+   "label": "Transference",
+   "variants": [
+    "transference"
+   ]
+  },
+  {
+   "label": "Countertransference",
+   "variants": [
+    "countertransference"
+   ]
+  },
+  {
+   "label": "Object relations",
+   "variants": [
+    "internal object"
+   ]
+  },
+  {
+   "label": "Defense mechanisms",
+   "variants": [
+    "defense mechanism",
+    "defence mechanism"
+   ]
+  },
+  {
+   "label": "Multicultural theory",
+   "variants": [
+    "multicultural counseling",
+    "multicultural counselling"
+   ]
+  },
+  {
+   "label": "Cultural identity",
+   "variants": [
+    "cultural identity"
+   ]
+  },
+  {
+   "label": "Acculturation",
+   "variants": [
+    "acculturation"
+   ]
+  },
+  {
+   "label": "Implicit bias",
+   "variants": [
+    "implicit bias"
+   ]
+  },
+  {
+   "label": "Microaggression",
+   "variants": [
+    "microaggression"
+   ]
+  },
+  {
+   "label": "Cultural distrust",
+   "variants": [
+    "cultural mistrust",
+    "cultural distrust"
+   ]
+  },
+  {
+   "label": "Intersectionality",
+   "variants": [
+    "intersectionality"
+   ]
+  },
+  {
+   "label": "Feminist theory",
+   "variants": [
+    "feminist"
+   ]
+  },
+  {
+   "label": "Power and privilege",
+   "variants": [
+    "power",
+    "privilege"
+   ]
+  },
+  {
+   "label": "Social justice",
+   "variants": [
+    "social justice"
+   ]
+  },
+  {
+   "label": "LGBTQ+ affirmation",
+   "variants": [
+    "LGBTQ",
+    "gay",
+    "lesbian",
+    "bisexual",
+    "transgender",
+    "queer"
+   ]
+  },
+  {
+   "label": "Minority stress",
+   "variants": [
+    "minority stress"
+   ]
+  },
+  {
+   "label": "Affirming practice",
+   "variants": [
+    "affirming"
+   ]
+  },
+  {
+   "label": "Conversion practice",
+   "variants": [
+    "conversion therapy",
+    "conversion practice"
+   ]
+  },
+  {
+   "label": "Motivational interviewing",
+   "variants": [
+    "motivational interviewing"
+   ]
+  },
+  {
+   "label": "Miller and Rollnick",
+   "variants": [
+    "Miller and Rollnick"
+   ]
+  },
+  {
+   "label": "Reflective listening",
+   "variants": [
+    "reflective listening"
+   ]
+  },
+  {
+   "label": "Rolling with resistance",
+   "variants": [
+    "rolling with resistance"
+   ]
+  },
+  {
+   "label": "Affirming statements",
+   "variants": [
+    "affirming"
+   ]
+  },
+  {
+   "label": "Elicit-provide-elicit",
+   "variants": [
+    "elicit-provide-elicit"
+   ]
+  },
+  {
+   "label": "Talk and test",
+   "variants": [
+    "talk and test"
+   ]
+  },
+  {
+   "label": "Empathic listening",
+   "variants": [
+    "empathic listening"
+   ]
+  },
+  {
+   "label": "Integrative framework",
+   "variants": [
+    "integrative framework",
+    "integration of theory"
+   ]
+  },
+  {
+   "label": "Technical eclecticism",
+   "variants": [
+    "technical eclecticism"
+   ]
+  },
+  {
+   "label": "Assimilative integration",
+   "variants": [
+    "assimilative integration"
+   ]
+  },
+  {
+   "label": "Theoretical integration",
+   "variants": [
+    "theoretical integration"
+   ]
+  },
+  {
+   "label": "Eclectic theory",
+   "variants": [
+    "eclecticism"
+   ]
+  },
+  {
+   "label": "Case formulation model",
+   "variants": [
+    "five-part formulation",
+    "five-part model"
+   ]
+  },
+  {
+   "label": "Predisposing factors",
+   "variants": [
+    "predisposing"
+   ]
+  },
+  {
+   "label": "Precipitating factors",
+   "variants": [
+    "precipitating"
+   ]
+  },
+  {
+   "label": "Perpetuating factors",
+   "variants": [
+    "perpetuating"
+   ]
+  },
+  {
+   "label": "Protective factors",
+   "variants": [
+    "protective"
+   ]
+  },
+  {
+   "label": "Progress notes",
+   "variants": [
+    "progress note"
+   ]
+  },
+  {
+   "label": "SOAP note",
+   "variants": [
+    "SOAP"
+   ]
+  },
+  {
+   "label": "Treatment outcome measure",
+   "variants": [
+    "outcome measure",
+    "measures of outcome"
+   ]
+  },
+  {
+   "label": "Session",
+   "variants": [
+    "session"
+   ]
+  },
+  {
+   "label": "Termination session",
+   "variants": [
+    "final session"
+   ]
+  },
+  {
+   "label": "Post-termination",
+   "variants": [
+    "post-termination"
+   ]
+  },
+  {
+   "label": "Teletherapy",
+   "variants": [
+    "teletherapy",
+    "telehealth",
+    "video counseling"
+   ]
+  },
+  {
+   "label": "Informed consent in telehealth",
+   "variants": [
+    "teletherapy consent"
+   ]
+  },
+  {
+   "label": "Electronic health record",
+   "variants": [
+    "electronic health record",
+    "EHR"
+   ]
+  },
+  {
+   "label": "School counseling",
+   "variants": [
+    "school counseling",
+    "school counselor",
+    "school counselling"
+   ]
+  },
+  {
+   "label": "Comprehensive school counseling program",
+   "variants": [
+    "comprehensive school counseling program"
+   ]
+  },
+  {
+   "label": "Referral",
+   "variants": [
+    "referral"
+   ]
+  },
+  {
+   "label": "IEP",
+   "variants": [
+    "individualized education program",
+    "IEP"
+   ]
+  },
+  {
+   "label": "504 plan",
+   "variants": [
+    "504"
+   ]
+  },
+  {
+   "label": "Multidisciplinary team",
+   "variants": [
+    "multidisciplinary team",
+    "team"
+   ]
+  },
+  {
+   "label": "Special education",
+   "variants": [
+    "special education"
+   ]
+  },
+  {
+   "label": "Bullying",
+   "variants": [
+    "bullying"
+   ]
+  },
+  {
+   "label": "Cyberbullying",
+   "variants": [
+    "cyberbullying"
+   ]
+  },
+  {
+   "label": "School refusal",
+   "variants": [
+    "school refusal",
+    "school avoidance"
+   ]
+  },
+  {
+   "label": "Truancy",
+   "variants": [
+    "truancy"
+   ]
+  },
+  {
+   "label": "Grief and loss",
+   "variants": [
+    "grief",
+    "bereavement"
+   ]
+  },
+  {
+   "label": "Self-harm",
+   "variants": [
+    "self-harm",
+    "self-injury",
+    "self-injurious behaviour",
+    "self-injurious behavior"
+   ]
+  },
+  {
+   "label": "Suicide",
+   "variants": [
+    "suicide",
+    "suicidality"
+   ]
+  },
+  {
+   "label": "Post-traumatic stress",
+   "variants": [
+    "post-traumatic stress",
+    "PTSD"
+   ]
+  },
+  {
+   "label": "Dissociation",
+   "variants": [
+    "dissociation"
+   ]
+  },
+  {
+   "label": "Anxiety",
+   "variants": [
+    "anxiety",
+    "anxious"
+   ]
+  },
+  {
+   "label": "Depression",
+   "variants": [
+    "depression",
+    "depressive"
+   ]
+  },
+  {
+   "label": "Oppositional behavior",
+   "variants": [
+    "oppositional"
+   ]
+  },
+  {
+   "label": "Conduct disorder",
+   "variants": [
+    "conduct disorder"
+   ]
+  },
+  {
+   "label": "Autism spectrum",
+   "variants": [
+    "autism",
+    "autistic"
+   ]
+  },
+  {
+   "label": "ADHD",
+   "variants": [
+    "ADHD",
+    "attention-deficit"
+   ]
+  },
+  {
+   "label": "Learning disorder",
+   "variants": [
+    "learning disorder"
+   ]
+  },
+  {
+   "label": "Selective mutism",
+   "variants": [
+    "selective mutism"
+   ]
+  },
+  {
+   "label": "Reactive attachment disorder",
+   "variants": [
+    "reactive attachment disorder"
+   ]
+  },
+  {
+   "label": "Anorexia",
+   "variants": [
+    "anorexia",
+    "anorexia nervosa"
+   ]
+  },
+  {
+   "label": "Bulimia",
+   "variants": [
+    "bulimia"
+   ]
+  },
+  {
+   "label": "Substance use",
+   "variants": [
+    "substance use",
+    "substance abuse"
+   ]
+  },
+  {
+   "label": "Relapse",
+   "variants": [
+    "relapse"
+   ]
+  },
+  {
+   "label": "Trauma and attachment",
+   "variants": [
+    "attachment and trauma"
+   ]
+  },
+  {
+   "label": "Resilience and trauma",
+   "variants": [
+    "post-traumatic growth"
+   ]
+  },
+  {
+   "label": "Working alliance",
+   "variants": [
+    "working alliance"
+   ]
+  },
+  {
+   "label": "Feedback",
+   "variants": [
+    "feedback"
+   ]
+  },
+  {
+   "label": "Rupture",
+   "variants": [
+    "rupture"
+   ]
+  },
+  {
+   "label": "Empathic attunement",
+   "variants": [
+    "attunement"
+   ]
+  },
+  {
+   "label": "Self-disclosure",
+   "variants": [
+    "self-disclosure",
+    "self disclosure"
+   ]
+  },
+  {
+   "label": "Reciprocity",
+   "variants": [
+    "reciprocity"
+   ]
+  },
+  {
+   "label": "Uniqueness",
+   "variants": [
+    "uniqueness"
+   ]
+  },
+  {
+   "label": "Person-centered outcome",
+   "variants": [
+    "client perception of change"
+   ]
+  },
+  {
+   "label": "Humanistic methods",
+   "variants": [
+    "humanistic"
+   ]
+  },
+  {
+   "label": "Client-centered counseling",
+   "variants": [
+    "client-centered counseling"
+   ]
+  },
+  {
+   "label": "Motivation in therapy",
+   "variants": [
+    "readiness"
+   ]
+  },
+  {
+   "label": "Insight",
+   "variants": [
+    "insight"
+   ]
+  },
+  {
+   "label": "Present-centered",
+   "variants": [
+    "present-centered"
+   ]
+  },
+  {
+   "label": "Choice theory",
+   "variants": [
+    "choice theory",
+    "reality therapy"
+   ]
+  },
+  {
+   "label": "Adlerian theory",
+   "variants": [
+    "Adlerian",
+    "Adler"
+   ]
+  },
+  {
+   "label": "Transactional",
+   "variants": [
+    "transactional"
+   ]
+  },
+  {
+   "label": "Cognitivist",
+   "variants": [
+    "cognitivist"
+   ]
+  },
+  {
+   "label": "Behaviorist",
+   "variants": [
+    "behaviorist"
+   ]
+  },
+  {
+   "label": "Constructivist",
+   "variants": [
+    "constructivist"
+   ]
+  },
+  {
+   "label": "Humanistic paradigm",
+   "variants": [
+    "humanistic paradigm"
+   ]
+  },
+  {
+   "label": "Postmodern",
+   "variants": [
+    "postmodern",
+    "social constructionism",
+    "social constructivism"
+   ]
+  },
+  {
+   "label": "Fifth force",
+   "variants": [
+    "fifth force"
+   ]
+  },
+  {
+   "label": "Model of the person",
+   "variants": [
+    "model of the person"
+   ]
+  },
+  {
+   "label": "Counseling theory taxonomy",
+   "variants": [
+    "taxonomy of theories"
+   ]
+  },
+  {
+   "label": "Theory-driven assessment",
+   "variants": [
+    "theory-driven assessment"
+   ]
+  },
+  {
+   "label": "Hypothesis-driven treatment",
+   "variants": [
+    "hypothesis-driven"
+   ]
+  },
+  {
+   "label": "Cultural formulation",
+   "variants": [
+    "cultural formulation",
+    "cultural identity interview"
+   ]
+  },
+  {
+   "label": "Ethnic minority",
+   "variants": [
+    "ethnic minority",
+    "minority group"
+   ]
+  },
+  {
+   "label": "Immigration and acculturative stress",
+   "variants": [
+    "acculturative stress"
+   ]
+  },
+  {
+   "label": "Racial identity",
+   "variants": [
+    "racial identity"
+   ]
+  },
+  {
+   "label": "White identity",
+   "variants": [
+    "white identity"
+   ]
+  },
+  {
+   "label": "Microlevel of culture",
+   "variants": [
+    "microculture"
+   ]
+  },
+  {
+   "label": "National origin",
+   "variants": [
+    "national origin"
+   ]
+  },
+  {
+   "label": "Language and counseling",
+   "variants": [
+    "language barrier",
+    "limited English proficiency"
+   ]
+  },
+  {
+   "label": "Interpreter",
+   "variants": [
+    "interpreter"
+   ]
+  },
+  {
+   "label": "Evidence for common factors",
+   "variants": [
+    "Frank's theorem"
+   ]
+  },
+  {
+   "label": "Therapist effects",
+   "variants": [
+    "therapist effect"
+   ]
+  },
+  {
+   "label": "Therapist competence and fidelity",
+   "variants": [
+    "therapist competence"
+   ]
+  },
+  {
+   "label": "Alliance-outcome association",
+   "variants": [
+    "alliance-outcome"
+   ]
+  },
+  {
+   "label": "Placebo and specific effects",
+   "variants": [
+    "specific factors"
+   ]
+  },
+  {
+   "label": "Nuanced technique",
+   "variants": [
+    "technique"
+   ]
+  },
+  {
+   "label": "Case formulation in behavior therapy",
+   "variants": [
+    "functional hypothesis"
+   ]
+  },
+  {
+   "label": "Antecedent function",
+   "variants": [
+    "function of behavior"
+   ]
+  },
+  {
+   "label": "Contingency",
+   "variants": [
+    "contingency"
+   ]
+  },
+  {
+   "label": "Negative reinforcement and escape",
+   "variants": [
+    "escape-maintained"
+   ]
+  },
+  {
+   "label": "Attention-maintained",
+   "variants": [
+    "attention-maintained"
+   ]
+  },
+  {
+   "label": "Automatic reinforcement",
+   "variants": [
+    "automatic reinforcement"
+   ]
+  },
+  {
+   "label": "Tangentially",
+   "variants": [
+    "tangentially"
+   ]
+  },
+  {
+   "label": "Shaping and prompting",
+   "variants": [
+    "prompting",
+    "fading"
+   ]
+  },
+  {
+   "label": "Generalization",
+   "variants": [
+    "generalisation",
+    "generalization"
+   ]
+  },
+  {
+   "label": "Maintenance and generalization",
+   "variants": [
+    "maintenance"
+   ]
+  },
+  {
+   "label": "Self-management training",
+   "variants": [
+    "self-management"
+   ]
+  },
+  {
+   "label": "Social skills training",
+   "variants": [
+    "social skills training"
+   ]
+  },
+  {
+   "label": "Emotion regulation in youth",
+   "variants": [
+    "affect regulation"
+   ]
+  },
+  {
+   "label": "Neurodevelopment of the adolescent brain",
+   "variants": [
+    "adolescent brain"
+   ]
+  },
+  {
+   "label": "Dual systems model",
+   "variants": [
+    "dual systems"
+   ]
+  },
+  {
+   "label": "Maturational model",
+   "variants": [
+    "maturational model"
+   ]
+  },
+  {
+   "label": "Socioemotional selectivity",
+   "variants": [
+    "socioemotional selectivity"
+   ]
+  },
+  {
+   "label": "Life-span development",
+   "variants": [
+    "life-span",
+    "lifespan development"
+   ]
+  },
+  {
+   "label": "Erikson",
+   "variants": [
+    "Erikson"
+   ]
+  },
+  {
+   "label": "Vygotsky",
+   "variants": [
+    "Vygotsky"
+   ]
+  },
+  {
+   "label": "Piaget",
+   "variants": [
+    "Piaget"
+   ]
+  },
+  {
+   "label": "Kohlberg",
+   "variants": [
+    "Kohlberg"
+   ]
+  },
+  {
+   "label": "Erikson psychosocial stages",
+   "variants": [
+    "identity versus role confusion"
+   ]
+  },
+  {
+   "label": "Zone of proximal development",
+   "variants": [
+    "zone of proximal development",
+    "scaffolding"
+   ]
+  },
+  {
+   "label": "Conservation",
+   "variants": [
+    "conservation"
+   ]
+  },
+  {
+   "label": "Formal operational thought",
+   "variants": [
+    "formal operational"
+   ]
+  },
+  {
+   "label": "Metacognition",
+   "variants": [
+    "metacognition"
+   ]
+  },
+  {
+   "label": "Growth mindset",
+   "variants": [
+    "growth mindset"
+   ]
+  },
+  {
+   "label": "Social learning in the classroom",
+   "variants": [
+    "classroom management"
+   ]
+  },
+  {
+   "label": "Proactive classroom management",
+   "variants": [
+    "proactive"
+   ]
+  },
+  {
+   "label": "Multitiered systems of support",
+   "variants": [
+    "multi-tiered"
+   ]
+  },
+  {
+   "label": "MTSS",
+   "variants": [
+    "multi-tiered systems of support",
+    "MTSS"
+   ]
+  },
+  {
+   "label": "Response to intervention",
+   "variants": [
+    "response to intervention"
+   ]
+  },
+  {
+   "label": "Behavioral consultation",
+   "variants": [
+    "behavioral consultation"
+   ]
+  },
+  {
+   "label": "Teacher consultation",
+   "variants": [
+    "teacher consultation"
+   ]
+  },
+  {
+   "label": "School-family partnership",
+   "variants": [
+    "school-family partnership"
+   ]
+  },
+  {
+   "label": "Coaching",
+   "variants": [
+    "coaching"
+   ]
+  },
+  {
+   "label": "Professional development",
+   "variants": [
+    "professional development"
+   ]
+  },
+  {
+   "label": "Reflective practice",
+   "variants": [
+    "reflective practice"
+   ]
+  },
+  {
+   "label": "Self-reflection",
+   "variants": [
+    "self-reflection"
+   ]
+  },
+  {
+   "label": "Countertransference in training",
+   "variants": [
+    "parallel process"
+   ]
+  },
+  {
+   "label": "Cultural formulation interview",
+   "variants": [
+    "cultural identity interview"
+   ]
+  },
+  {
+   "label": "Terminal illness",
+   "variants": [
+    "terminal illness"
+   ]
+  },
+  {
+   "label": "Grief counseling",
+   "variants": [
+    "grief counseling"
+   ]
+  },
+  {
+   "label": "Community resources",
+   "variants": [
+    "community resources"
+   ]
+  },
+  {
+   "label": "Social determinants",
+   "variants": [
+    "social determinants"
+   ]
+  },
+  {
+   "label": "Poverty and counseling",
+   "variants": [
+    "poverty"
+   ]
+  },
+  {
+   "label": "Housing instability",
+   "variants": [
+    "housing instability"
+   ]
+  },
+  {
+   "label": "Legal mandates",
+   "variants": [
+    "mandate"
+   ]
+  },
+  {
+   "label": "Involuntary treatment",
+   "variants": [
+    "involuntary"
+   ]
+  },
+  {
+   "label": "Parental consent",
+   "variants": [
+    "parental consent"
+   ]
+  },
+  {
+   "label": "Subpoena",
+   "variants": [
+    "subpoena"
+   ]
+  },
+  {
+   "label": "Documentation standards",
+   "variants": [
+    "documentation"
+   ]
+  },
+  {
+   "label": "Record retention",
+   "variants": [
+    "record retention"
+   ]
+  },
+  {
+   "label": "Telehealth and privacy",
+   "variants": [
+    "privacy"
+   ]
+  },
+  {
+   "label": "Social media",
+   "variants": [
+    "social media"
+   ]
+  },
+  {
+   "label": "Cyberbullying and digital citizenship",
+   "variants": [
+    "digital citizenship"
+   ]
+  },
+  {
+   "label": "Screening instruments",
+   "variants": [
+    "screening instrument"
+   ]
+  },
+  {
+   "label": "Informed consent and minors",
+   "variants": [
+    "assent and consent"
+   ]
+  },
+  {
+   "label": "Counselor competence",
+   "variants": [
+    "competence boundaries"
+   ]
+  },
+  {
+   "label": "Scope of practice",
+   "variants": [
+    "scope of practice"
+   ]
+  },
+  {
+   "label": "HIPAA",
+   "variants": [
+    "HIPAA",
+    "health information"
+   ]
+  },
+  {
+   "label": "FERPA",
+   "variants": [
+    "FERPA"
+   ]
+  },
+  {
+   "label": "Title IX",
+   "variants": [
+    "Title IX"
+   ]
+  },
+  {
+   "label": "Ethical decision model",
+   "variants": [
+    "ethical decision model"
+   ]
+  },
+  {
+   "label": "Ethical dilemma",
+   "variants": [
+    "ethical dilemma"
+   ]
+  },
+  {
+   "label": "Moral reasoning",
+   "variants": [
+    "moral reasoning"
+   ]
+  },
+  {
+   "label": "Dilemma management",
+   "variants": [
+    "dilemma management"
+   ]
+  },
+  {
+   "label": "Termination of counseling",
+   "variants": [
+    "ending of counseling"
+   ]
+  },
+  {
+   "label": "Clinical supervision models",
+   "variants": [
+    "clinical supervision"
+   ]
+  },
+  {
+   "label": "Supervisory relationship",
+   "variants": [
+    "supervisory relationship"
+   ]
+  },
+  {
+   "label": "Multimodal supervision",
+   "variants": [
+    "multimodal supervision"
+   ]
+  },
+  {
+   "label": "Peer supervision",
+   "variants": [
+    "peer supervision"
+   ]
+  },
+  {
+   "label": "Consultation vs. supervision",
+   "variants": [
+    "consultation relationship"
+   ]
+  },
+  {
+   "label": "Theory-driven group work",
+   "variants": [
+    "group counseling",
+    "group work"
+   ]
+  },
+  {
+   "label": "Group cohesiveness",
+   "variants": [
+    "group cohesiveness"
+   ]
+  },
+  {
+   "label": "Parallel process",
+   "variants": [
+    "parallel process"
+   ]
+  },
+  {
+   "label": "Yalom's therapeutic factors",
+   "variants": [
+    "therapeutic factors"
+   ]
+  },
+  {
+   "label": "Peer support",
+   "variants": [
+    "peer support"
+   ]
+  },
+  {
+   "label": "Group selection",
+   "variants": [
+    "group selection"
+   ]
+  },
+  {
+   "label": "Confidentiality in groups",
+   "variants": [
+    "group confidentiality"
+   ]
+  },
+  {
+   "label": "Termination in groups",
+   "variants": [
+    "group termination"
+   ]
+  },
+  {
+   "label": "Crisis and trauma work",
+   "variants": [
+    "crisis work"
+   ]
+  },
+  {
+   "label": "Psychological first aid",
+   "variants": [
+    "psychological first aid"
+   ]
+  },
+  {
+   "label": "Suicide assessment",
+   "variants": [
+    "suicide risk assessment"
+   ]
+  },
+  {
+   "label": "Means restriction",
+   "variants": [
+    "means restriction"
+   ]
+  },
+  {
+   "label": "Safety planning intervention",
+   "variants": [
+    "safety planning intervention"
+   ]
+  },
+  {
+   "label": "Postvention",
+   "variants": [
+    "postvention"
+   ]
+  },
+  {
+   "label": "Survivor",
+   "variants": [
+    "survivor"
+   ]
+  },
+  {
+   "label": "Complex PTSD in youth",
+   "variants": [
+    "complex PTSD"
+   ]
+  },
+  {
+   "label": "Attachment and trauma",
+   "variants": [
+    "trauma and attachment"
+   ]
+  },
+  {
+   "label": "Dissociation in children",
+   "variants": [
+    "dissociation in children"
+   ]
+  },
+  {
+   "label": "Phased treatment",
+   "variants": [
+    "phase-based treatment"
+   ]
+  },
+  {
+   "label": "Cognitive processing therapy",
+   "variants": [
+    "cognitive processing therapy"
+   ]
+  },
+  {
+   "label": "Prolonged exposure",
+   "variants": [
+    "prolonged exposure"
+   ]
+  },
+  {
+   "label": "Child and family trauma",
+   "variants": [
+    "child trauma"
+   ]
+  },
+  {
+   "label": "Polyvagal-informed",
+   "variants": [
+    "polyvagal-informed"
+   ]
+  },
+  {
+   "label": "Self-regulation skills",
+   "variants": [
+    "self-regulation"
+   ]
+  },
+  {
+   "label": "Window of tolerance education",
+   "variants": [
+    "window of tolerance education"
+   ]
+  },
+  {
+   "label": "Consultation in schools",
+   "variants": [
+    "school consultation"
+   ]
+  },
+  {
+   "label": "Program evaluation",
+   "variants": [
+    "program evaluation"
+   ]
+  },
+  {
+   "label": "Fidelity and adaptation",
+   "variants": [
+    "adaptation of treatment"
+   ]
+  },
+  {
+   "label": "Cultural adaptation",
+   "variants": [
+    "cultural adaptation"
+   ]
+  },
+  {
+   "label": "Implementation science",
+   "variants": [
+    "implementation"
+   ]
+  },
+  {
+   "label": "Manuals and flexibility",
+   "variants": [
+    "flexibility"
+   ]
+  },
+  {
+   "label": "Therapist judgment",
+   "variants": [
+    "clinical judgment"
+   ]
+  },
+  {
+   "label": "Decision-making in counseling",
+   "variants": [
+    "decision-making"
+   ]
+  },
+  {
+   "label": "Evidence hierarchy",
+   "variants": [
+    "hierarchy of evidence"
+   ]
+  },
+  {
+   "label": "Systematic review",
+   "variants": [
+    "systematic review"
+   ]
+  },
+  {
+   "label": "Practice-based evidence",
+   "variants": [
+    "practice-based evidence"
+   ]
+  },
+  {
+   "label": "Case formulation models",
+   "variants": [
+    "formulation"
+   ]
+  },
+  {
+   "label": "Sequential treatment",
+   "variants": [
+    "sequential treatment"
+   ]
+  },
+  {
+   "label": "Stage-based treatment",
+   "variants": [
+    "stage-based"
+   ]
+  },
+  {
+   "label": "Sequencing of treatment",
+   "variants": [
+    "sequencing"
+   ]
+  },
+  {
+   "label": "Integrative formulation",
+   "variants": [
+    "integrative formulation"
+   ]
+  },
+  {
+   "label": "Common factors revisited",
+   "variants": [
+    "common factors revisited"
+   ]
+  },
+  {
+   "label": "Alliance measurement",
+   "variants": [
+    "alliance measure"
+   ]
+  },
+  {
+   "label": "Session number effects",
+   "variants": [
+    "late-session effect",
+    "session number"
+   ]
+  },
+  {
+   "label": "Therapist empathy measurement",
+   "variants": [
+    "empathy rating"
+   ]
+  },
+  {
+   "label": "Encouragement",
+   "variants": [
+    "encouragement"
+   ]
+  },
+  {
+   "label": "Coaching and mentoring",
+   "variants": [
+    "mentoring"
+   ]
+  },
+  {
+   "label": "Professional identity",
+   "variants": [
+    "professional identity"
+   ]
+  },
+  {
+   "label": "Professionalism",
+   "variants": [
+    "professionalism"
+   ]
+  },
+  {
+   "label": "Competence maintenance",
+   "variants": [
+    "continuing professional development"
+   ]
+  },
+  {
+   "label": "Credentialing",
+   "variants": [
+    "credentialing",
+    "licensure"
+   ]
+  },
+  {
+   "label": "Accreditation",
+   "variants": [
+    "accreditation"
+   ]
+  },
+  {
+   "label": "Program curriculum",
+   "variants": [
+    "curriculum"
+   ]
+  },
+  {
+   "label": "Course learning outcomes",
+   "variants": [
+    "course learning outcomes"
+   ]
+  },
+  {
+   "label": "Bloom's taxonomy",
+   "variants": [
+    "Bloom"
+   ]
+  },
+  {
+   "label": "Constructive alignment",
+   "variants": [
+    "constructive alignment"
+   ]
+  },
+  {
+   "label": "Formative assessment design",
+   "variants": [
+    "assessment design"
+   ]
+  },
+  {
+   "label": "Rubric",
+   "variants": [
+    "rubric",
+    "rubrics"
+   ]
+  },
+  {
+   "label": "Academic integrity",
+   "variants": [
+    "academic integrity"
+   ]
+  },
+  {
+   "label": "Authentic assessment",
+   "variants": [
+    "authentic assessment"
+   ]
+  },
+  {
+   "label": "Case conceptualization assignment",
+   "variants": [
+    "conceptualization assignment"
+   ]
+  },
+  {
+   "label": "Annotated bibliography",
+   "variants": [
+    "annotated bibliography"
+   ]
+  },
+  {
+   "label": "Reflective journal",
+   "variants": [
+    "reflective journal"
+   ]
+  }
+ ]
+}
