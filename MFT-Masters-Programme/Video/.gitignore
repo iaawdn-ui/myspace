@@ -1,5 +1,3 @@
-slides/video.txt
-slides/audio.txt
-slides-w02/video.txt
-slides-w02/audio.txt
+slides*/video.txt
+slides*/audio.txt
 __pycache__/
