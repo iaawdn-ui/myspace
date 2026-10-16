@@ -281,6 +281,28 @@ def wrap_text(canvas, text, font, size, maxw):
     return lines
 
 
+class SetChapterLabel(Flowable):
+    """Zero-size marker that updates the running head as the story is built.
+
+    The document assembles the whole story before rendering, so assigning
+    ``doc._chapter_label`` during assembly leaves the final appendix label
+    in force for the entire book.  Emitting markers into the story makes
+    ``afterFlowable`` update the label at the point each chapter begins.
+    """
+
+    def __init__(self, label):
+        Flowable.__init__(self)
+        self.label = label
+        self.width = 0
+        self.height = 0
+
+    def wrap(self, avail_width, avail_height):
+        return (0, 0)
+
+    def draw(self):
+        pass
+
+
 class Rule(Flowable):
     def __init__(self, width, thickness=0.6, color=RULE, space=6):
         Flowable.__init__(self)
@@ -986,6 +1008,8 @@ class BookDoc(BaseDocTemplate):
 
     # -- notifications -----------------------------------------------------
     def afterFlowable(self, flowable):
+        if isinstance(flowable, SetChapterLabel):
+            self._chapter_label = flowable.label
         for f in _walk(flowable):
             self._after_one(f)
 
@@ -1168,6 +1192,7 @@ def main():
         pcolor = HexColor(part.get("accent", "#173A5E"))
         chapters = part["chapters"]
         opener = _resolve(part.get("opener", ""))
+        story.append(SetChapterLabel("Part %s  |  %s" % (part["number"], part["title"])))
         story.append(NextPageTemplate("plate"))
         pb()
         story.append(PartDivider(part["number"], part["title"],
@@ -1188,6 +1213,7 @@ def main():
                     continue
             doc._chapter_label = "Chapter %s  |  %s" % (ch["number"],
                                                        ch["title"])
+            story.append(SetChapterLabel("Chapter %s  |  %s" % (ch["number"], ch["title"])))
             story.append(NextPageTemplate("plate"))
             pb()
             story.append(ChapterOpener(
@@ -1218,6 +1244,7 @@ def main():
             if len(missing) == len(ap_files):
                 continue
         doc._chapter_label = "Appendix %s  |  %s" % (ap["letter"], ap["title"])
+        story.append(SetChapterLabel("Appendix %s  |  %s" % (ap["letter"], ap["title"])))
         story.append(NextPageTemplate("plate"))
         pb()
         story.append(ChapterOpener(ap["label"], ap["title"],
@@ -1237,6 +1264,7 @@ def main():
                 story.extend(_render_blocks([b], figs, tbls, ap["label"]))
 
     # index
+    story.append(SetChapterLabel("Index"))
     pb()
     story.append(Paragraph("Index", ST["fm_title"]))
     story.append(Rule(TEXT_W, 1.2, ACCENT, 6))
