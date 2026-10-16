@@ -1,0 +1,7 @@
+# About This Edition
+
+This first edition of *CAC. 702 Adolescent Development* was produced as a complete, self-contained course text. Its production standards match those of the programme's CAC. 701 textbook: a single professional volume containing the full taught content of the course, its seminar and laboratory material, its assessment guidance and its clinical appendices, so that a student with this book, a library connection and supervised practice has everything the course requires.
+
+The text deliberately emphasises four habits that distinguish graduate developmental practice. First, mechanism over label: every topic is pressed until it specifies the process by which development proceeds or difficulty is maintained. Second, trajectory over snapshot: functioning is always read for direction and rate of change. Third, context alongside individual: families, schools, peers, digital environments and structural conditions are assessed as part of every case. Fourth, prediction over impression: formulations are written so that they can fail, and reviewed against outcomes actually observed. Students who acquire these four habits will find that the later, technique-focused courses of the programme become substantially easier, because they will know what each technique is for.
+
+Corrections and suggestions from lecturers and students are welcomed through the Department and will be incorporated in subsequent editions, together with updated evidence reviews as the developmental literature develops.

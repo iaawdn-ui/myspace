@@ -1,0 +1,10 @@
+{
+  "front_order": [],
+  "parts": [
+    {"number": "I", "title": "Test Part", "blurb": "A test part blurb.",
+     "accent": "#173A5E", "opener": "", "chapters": [
+       {"number": "1", "title": "Foundations of Counseling Theory", "file": "ch/01.md", "subtitle": "A subtitle", "opener": ""}
+     ]}
+  ],
+  "appendices": []
+}

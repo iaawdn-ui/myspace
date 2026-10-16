@@ -1,0 +1,765 @@
+{
+ "course_code": "CAC. 701",
+ "course_title": "Fundamentals of Counseling Theories",
+ "programme": "Master of Arts in Children and Adolescent Counseling",
+ "institution": "Triune Biblical University Global Extension",
+ "front_order": [
+  "00_half_title.md",
+  "01_copyright.md",
+  "02_dedication.md",
+  "03_preface.md",
+  "04_how_to_use.md",
+  "05_course_alignment.md",
+  "06_about_this_edition.md",
+  "07_contributors.md"
+ ],
+ "parts": [
+  {
+   "number": "I",
+   "title": "Foundations of Counseling Theory",
+   "blurb": "The intellectual scaffolding on which professional counseling practice is built: what a theory is, what it does, where it comes from, how it is evaluated, and how it must be adapted to the developmental and cultural realities of children and adolescents.",
+   "accent": "#173A5E",
+   "opener": "part1.png",
+   "chapters": [
+    {
+     "number": "1",
+     "title": "The Role of Theory in Professional Counseling Practice",
+     "subtitle": "Why theory matters, what it does and does not do, and how it becomes a working instrument in the counseling room.",
+     "files": [
+      "ch/01_the_role_of_theory_in_professional_counseling_pr_a.md",
+      "ch/01_the_role_of_theory_in_professional_counseling_pr_b.md"
+     ],
+     "opener": "ch01_the_role_of_theory_in_professional_counseling_pr.png"
+    },
+    {
+     "number": "2",
+     "title": "Scientific and Professional Foundations of Counseling",
+     "subtitle": "The research tradition, the professional identity, and the movements that established counseling as a distinct discipline.",
+     "files": [
+      "ch/02_scientific_and_professional_foundations_of_couns_a.md",
+      "ch/02_scientific_and_professional_foundations_of_couns_b.md"
+     ],
+     "opener": "ch02_scientific_and_professional_foundations_of_couns.png"
+    },
+    {
+     "number": "3",
+     "title": "Philosophical Worldviews: The Five Domains of Theory",
+     "subtitle": "Humanistic, cognitive, behavioral, systemic, and constructivist assumptions examined side by side.",
+     "files": [
+      "ch/03_philosophical_worldviews_the_five_domains_of_the_a.md",
+      "ch/03_philosophical_worldviews_the_five_domains_of_the_b.md"
+     ],
+     "opener": "ch03_philosophical_worldviews_the_five_domains_of_the.png"
+    },
+    {
+     "number": "4",
+     "title": "A Genealogy of Counseling Theories",
+     "subtitle": "A historical map from the late nineteenth century to the contemporary integrative era.",
+     "files": [
+      "ch/04_a_genealogy_of_counseling_theories_a.md",
+      "ch/04_a_genealogy_of_counseling_theories_b.md"
+     ],
+     "opener": "ch04_a_genealogy_of_counseling_theories.png"
+    },
+    {
+     "number": "5",
+     "title": "The Therapeutic Relationship: Alliance, Rupture, and Repair",
+     "subtitle": "The common substrate on which all theory-specific methods rest.",
+     "files": [
+      "ch/05_the_therapeutic_relationship_alliance_rupture_an_a.md",
+      "ch/05_the_therapeutic_relationship_alliance_rupture_an_b.md"
+     ],
+     "opener": "ch05_the_therapeutic_relationship_alliance_rupture_an.png"
+    },
+    {
+     "number": "6",
+     "title": "Common Factors, Placebo Effects, and Specific Factors",
+     "subtitle": "What all therapies share, what is unique to each, and why the distinction matters for ethical practice.",
+     "files": [
+      "ch/06_common_factors_placebo_effects_and_specific_fact_a.md",
+      "ch/06_common_factors_placebo_effects_and_specific_fact_b.md"
+     ],
+     "opener": "ch06_common_factors_placebo_effects_and_specific_fact.png"
+    },
+    {
+     "number": "7",
+     "title": "The Evidence Base: Evaluating Counseling Theories",
+     "subtitle": "Outcome research, treatment manuals, and the appraisal of efficacy for youth-serving interventions.",
+     "files": [
+      "ch/07_the_evidence_base_evaluating_counseling_theories_a.md",
+      "ch/07_the_evidence_base_evaluating_counseling_theories_b.md"
+     ],
+     "opener": "ch07_the_evidence_base_evaluating_counseling_theories.png"
+    },
+    {
+     "number": "8",
+     "title": "Culturally Responsive Theory and the Cultural Lens",
+     "subtitle": "Culture as a constitutive element of personality, not a variable added to it.",
+     "files": [
+      "ch/08_culturally_responsive_theory_and_the_cultural_le_a.md",
+      "ch/08_culturally_responsive_theory_and_the_cultural_le_b.md"
+     ],
+     "opener": "ch08_culturally_responsive_theory_and_the_cultural_le.png"
+    },
+    {
+     "number": "9",
+     "title": "Developmental Foundations for Counseling Youth",
+     "subtitle": "The developmental science that constrains and informs any theory applied to children and adolescents.",
+     "files": [
+      "ch/09_developmental_foundations_for_counseling_youth_a.md",
+      "ch/09_developmental_foundations_for_counseling_youth_b.md"
+     ],
+     "opener": "ch09_developmental_foundations_for_counseling_youth.png"
+    }
+   ]
+  },
+  {
+   "number": "II",
+   "title": "Person-Centered and Humanistic Theories",
+   "blurb": "Theories that locate the person, not the problem, at the centre of change: the growth-oriented traditions inaugurated by Carl Rogers and extended by existential, Gestalt, phenomenological, and dialogical thinkers.",
+   "accent": "#1F6F6B",
+   "opener": "part2.png",
+   "chapters": [
+    {
+     "number": "10",
+     "title": "Person-Centered Theory: The Client as Expert",
+     "subtitle": "Rogers' theory of the self, the actualising tendency, and the conditions of therapeutic change.",
+     "files": [
+      "ch/10_person_centered_theory_the_client_as_expert_a.md",
+      "ch/10_person_centered_theory_the_client_as_expert_b.md"
+     ],
+     "opener": "ch10_person_centered_theory_the_client_as_expert.png"
+    },
+    {
+     "number": "11",
+     "title": "Existential Therapy: Meaning, Isolation, and Freedom",
+     "subtitle": "Yalom, May, Frankl, and the clinical use of existential confrontation.",
+     "files": [
+      "ch/11_existential_therapy_meaning_isolation_and_freedo_a.md",
+      "ch/11_existential_therapy_meaning_isolation_and_freedo_b.md"
+     ],
+     "opener": "ch11_existential_therapy_meaning_isolation_and_freedo.png"
+    },
+    {
+     "number": "12",
+     "title": "Gestalt Therapy: Awareness, Contact, and the Here and Now",
+     "subtitle": "Perls, Foulkes, and the experimental phenomenology of the counseling session.",
+     "files": [
+      "ch/12_gestalt_therapy_awareness_contact_and_the_here_a.md",
+      "ch/12_gestalt_therapy_awareness_contact_and_the_here_b.md"
+     ],
+     "opener": "ch12_gestalt_therapy_awareness_contact_and_the_here_a.png"
+    },
+    {
+     "number": "13",
+     "title": "Focusing-Oriented Therapy and the Felt Sense",
+     "subtitle": "Gendlin's experiential method and the therapeutic use of bodily felt meaning.",
+     "files": [
+      "ch/13_focusing_oriented_therapy_and_the_felt_sense_a.md",
+      "ch/13_focusing_oriented_therapy_and_the_felt_sense_b.md"
+     ],
+     "opener": "ch13_focusing_oriented_therapy_and_the_felt_sense.png"
+    },
+    {
+     "number": "14",
+     "title": "Transactional Analysis: Structure, Strategy, and Script",
+     "subtitle": "Berne's ego-state model, the drama triangle, and the adapted use of TA with young people.",
+     "files": [
+      "ch/14_transactional_analysis_structure_strategy_and_sc_a.md",
+      "ch/14_transactional_analysis_structure_strategy_and_sc_b.md"
+     ],
+     "opener": "ch14_transactional_analysis_structure_strategy_and_sc.png"
+    },
+    {
+     "number": "15",
+     "title": "Internal Family Systems and Structural Dissociation",
+     "subtitle": "Schwarz's model of parts and the treatment of partitioned experience in traumatized youth.",
+     "files": [
+      "ch/15_internal_family_systems_and_structural_dissociat_a.md",
+      "ch/15_internal_family_systems_and_structural_dissociat_b.md"
+     ],
+     "opener": "ch15_internal_family_systems_and_structural_dissociat.png"
+    }
+   ]
+  },
+  {
+   "number": "III",
+   "title": "Cognitive Theories",
+   "blurb": "The cognitive family of theories: the proposition that mental activity is mediated by the appraisal of events, the examination of belief systems, and the third-wave movement that loosened the grip of rational disputation.",
+   "accent": "#6B3E75",
+   "opener": "part3.png",
+   "chapters": [
+    {
+     "number": "16",
+     "title": "Cognitive Therapy: The Cognitive Model",
+     "subtitle": "Aaron Beck's theory of depression and anxiety, the cognitive conceptualization triangle, and the disciplined practice of cognitive therapy.",
+     "files": [
+      "ch/16_cognitive_therapy_the_cognitive_model_a.md",
+      "ch/16_cognitive_therapy_the_cognitive_model_b.md"
+     ],
+     "opener": "ch16_cognitive_therapy_the_cognitive_model.png"
+    },
+    {
+     "number": "17",
+     "title": "Cognitive Therapy with Children and Adolescents",
+     "subtitle": "Developmental adaptations, the role of the parent, and the modification of thought records for younger clients.",
+     "files": [
+      "ch/17_cognitive_therapy_with_children_and_adolescents_a.md",
+      "ch/17_cognitive_therapy_with_children_and_adolescents_b.md"
+     ],
+     "opener": "ch17_cognitive_therapy_with_children_and_adolescents.png"
+    },
+    {
+     "number": "18",
+     "title": "Rational Emotive Behavior Therapy",
+     "subtitle": "Ellis's ABC model, the disputing process, and rational emotional flexibility in the counseling room.",
+     "files": [
+      "ch/18_rational_emotive_behavior_therapy_a.md",
+      "ch/18_rational_emotive_behavior_therapy_b.md"
+     ],
+     "opener": "ch18_rational_emotive_behavior_therapy.png"
+    },
+    {
+     "number": "19",
+     "title": "Schema Therapy: Modes, Styles, and Early Maladaptive Schemas",
+     "subtitle": "Young's model of personality organisation and the schema-focused treatment of adolescents.",
+     "files": [
+      "ch/19_schema_therapy_modes_styles_and_early_maladaptiv_a.md",
+      "ch/19_schema_therapy_modes_styles_and_early_maladaptiv_b.md"
+     ],
+     "opener": "ch19_schema_therapy_modes_styles_and_early_maladaptiv.png"
+    },
+    {
+     "number": "20",
+     "title": "Acceptance and Commitment Therapy",
+     "subtitle": "Psychological flexibility, the hexaflex, and defusion in adolescent work.",
+     "files": [
+      "ch/20_acceptance_and_commitment_therapy_a.md",
+      "ch/20_acceptance_and_commitment_therapy_b.md"
+     ],
+     "opener": "ch20_acceptance_and_commitment_therapy.png"
+    },
+    {
+     "number": "21",
+     "title": "Dialectical Behavior Therapy and Its Adolescent Adaptations",
+     "subtitle": "Linehan's biosocial theory, the four modules, and dialectical strategies in practice.",
+     "files": [
+      "ch/21_dialectical_behavior_therapy_and_its_adolescent__a.md",
+      "ch/21_dialectical_behavior_therapy_and_its_adolescent__b.md"
+     ],
+     "opener": "ch21_dialectical_behavior_therapy_and_its_adolescent_.png"
+    },
+    {
+     "number": "22",
+     "title": "Mindfulness-Based Cognitive Therapy and Mindfulness Approaches",
+     "subtitle": "MBSR, MBCT, and the cultivation of attentional flexibility in young people.",
+     "files": [
+      "ch/22_mindfulness_based_cognitive_therapy_and_mindfuln_a.md",
+      "ch/22_mindfulness_based_cognitive_therapy_and_mindfuln_b.md"
+     ],
+     "opener": "ch22_mindfulness_based_cognitive_therapy_and_mindfuln.png"
+    }
+   ]
+  },
+  {
+   "number": "IV",
+   "title": "Behavioral Theories",
+   "blurb": "The behavioral tradition: learning as the engine of change, the systematic analysis of behaviour, and the translation of learning principles into interventions that can be measured, replicated, and evaluated.",
+   "accent": "#9B2C2C",
+   "opener": "part4.png",
+   "chapters": [
+    {
+     "number": "23",
+     "title": "Behavior Therapy: Principles of Learning",
+     "subtitle": "Classical and operant conditioning, the law of effect, and the epistemology of observable behaviour.",
+     "files": [
+      "ch/23_behavior_therapy_principles_of_learning_a.md",
+      "ch/23_behavior_therapy_principles_of_learning_b.md"
+     ],
+     "opener": "ch23_behavior_therapy_principles_of_learning.png"
+    },
+    {
+     "number": "24",
+     "title": "Applied Behavior Analysis: Functional Assessment",
+     "subtitle": "The ABC model, functional analysis, and the construction of hypotheses about why a behaviour occurs.",
+     "files": [
+      "ch/24_applied_behavior_analysis_functional_assessment_a.md",
+      "ch/24_applied_behavior_analysis_functional_assessment_b.md"
+     ],
+     "opener": "ch24_applied_behavior_analysis_functional_assessment.png"
+    },
+    {
+     "number": "25",
+     "title": "Exposure, Modeling, and Behavioral Skills Training",
+     "subtitle": "The treatment of avoidance, fear, and deficit through systematic desensitisation, observation, and rehearsal.",
+     "files": [
+      "ch/25_exposure_modeling_and_behavioral_skills_training_a.md",
+      "ch/25_exposure_modeling_and_behavioral_skills_training_b.md"
+     ],
+     "opener": "ch25_exposure_modeling_and_behavioral_skills_training.png"
+    },
+    {
+     "number": "26",
+     "title": "Operant Conditioning and Contingency Management",
+     "subtitle": "Reinforcement, schedules, and the deliberate shaping of behaviour in clinical and educational settings.",
+     "files": [
+      "ch/26_operant_conditioning_and_contingency_management_a.md",
+      "ch/26_operant_conditioning_and_contingency_management_b.md"
+     ],
+     "opener": "ch26_operant_conditioning_and_contingency_management.png"
+    },
+    {
+     "number": "27",
+     "title": "Behavioral Activation and Activity Scheduling",
+     "subtitle": "The behavioural treatment of depression and withdrawal in adolescents.",
+     "files": [
+      "ch/27_behavioral_activation_and_activity_scheduling_a.md",
+      "ch/27_behavioral_activation_and_activity_scheduling_b.md"
+     ],
+     "opener": "ch27_behavioral_activation_and_activity_scheduling.png"
+    },
+    {
+     "number": "28",
+     "title": "Contingency Management in Schools and Clinics",
+     "subtitle": "Token systems, behaviour contracts, and the negotiated restructuring of reinforcement in real settings.",
+     "files": [
+      "ch/28_contingency_management_in_schools_and_clinics_a.md",
+      "ch/28_contingency_management_in_schools_and_clinics_b.md"
+     ],
+     "opener": "ch28_contingency_management_in_schools_and_clinics.png"
+    },
+    {
+     "number": "29",
+     "title": "Functional Analysis of Self-Injurious and Aggressive Behaviour",
+     "subtitle": "Safety-oriented assessment and intervention with behaviour that is harmful or dangerous.",
+     "files": [
+      "ch/29_functional_analysis_of_self_injurious_and_aggres_a.md",
+      "ch/29_functional_analysis_of_self_injurious_and_aggres_b.md"
+     ],
+     "opener": "ch29_functional_analysis_of_self_injurious_and_aggres.png"
+    }
+   ]
+  },
+  {
+   "number": "V",
+   "title": "Systemic, Family, and Relational Theories",
+   "blurb": "Theories that locate the individual inside a network of relationships and meanings: the systemic turn, the family as the unit of treatment, and the narrative and solution-oriented traditions.",
+   "accent": "#0E2740",
+   "opener": "part5.png",
+   "chapters": [
+    {
+     "number": "30",
+     "title": "Family Systems Theory: Bowen and the Generational Project",
+     "subtitle": "Differentiation, triangles, nuclear family emotional process, and the genogram as a clinical tool.",
+     "files": [
+      "ch/30_family_systems_theory_bowen_and_the_generational_a.md",
+      "ch/30_family_systems_theory_bowen_and_the_generational_b.md"
+     ],
+     "opener": "ch30_family_systems_theory_bowen_and_the_generational.png"
+    },
+    {
+     "number": "31",
+     "title": "Structural Family Therapy",
+     "subtitle": "Minuchin's structural model, boundaries, subsystems, and restructuring with adolescents and parents.",
+     "files": [
+      "ch/31_structural_family_therapy_a.md",
+      "ch/31_structural_family_therapy_b.md"
+     ],
+     "opener": "ch31_structural_family_therapy.png"
+    },
+    {
+     "number": "32",
+     "title": "Strategic Family Therapy and Communication Theory",
+     "subtitle": "Problem-maintaining sequences, directives, and the reframing of the problem.",
+     "files": [
+      "ch/32_strategic_family_therapy_and_communication_theor_a.md",
+      "ch/32_strategic_family_therapy_and_communication_theor_b.md"
+     ],
+     "opener": "ch32_strategic_family_therapy_and_communication_theor.png"
+    },
+    {
+     "number": "33",
+     "title": "Family Therapy with Parents and Adolescents",
+     "subtitle": "Developmental and systemic consultation with families in conflict.",
+     "files": [
+      "ch/33_family_therapy_with_parents_and_adolescents_a.md",
+      "ch/33_family_therapy_with_parents_and_adolescents_b.md"
+     ],
+     "opener": "ch33_family_therapy_with_parents_and_adolescents.png"
+    },
+    {
+     "number": "34",
+     "title": "Attachment Theory and Attachment-Based Therapy",
+     "subtitle": "Bowlby, Ainsworth, and the translation of attachment research into treatment.",
+     "files": [
+      "ch/34_attachment_theory_and_attachment_based_therapy_a.md",
+      "ch/34_attachment_theory_and_attachment_based_therapy_b.md"
+     ],
+     "opener": "ch34_attachment_theory_and_attachment_based_therapy.png"
+    },
+    {
+     "number": "35",
+     "title": "Solution-Focused Brief Therapy and Strength-Based Practice",
+     "subtitle": "Scaling, exception questions, and the deliberate use of what is already working.",
+     "files": [
+      "ch/35_solution_focused_brief_therapy_and_strength_base_a.md",
+      "ch/35_solution_focused_brief_therapy_and_strength_base_b.md"
+     ],
+     "opener": "ch35_solution_focused_brief_therapy_and_strength_base.png"
+    },
+    {
+     "number": "36",
+     "title": "Narrative Therapy and the Re-Authoring of Lives",
+     "subtitle": "Externalisation, unique outcomes, and the collaborative reconstruction of adolescent identity.",
+     "files": [
+      "ch/36_narrative_therapy_and_the_re_authoring_of_lives_a.md",
+      "ch/36_narrative_therapy_and_the_re_authoring_of_lives_b.md"
+     ],
+     "opener": "ch36_narrative_therapy_and_the_re_authoring_of_lives.png"
+    }
+   ]
+  },
+  {
+   "number": "VI",
+   "title": "Emotional, Trauma-Informed, and Somatic Practice",
+   "blurb": "Theories and methods that work with feeling, with the body, and with the developmental consequences of threat: emotion-focused work, trauma-informed phases, bilateral stimulation, and somatic regulation.",
+   "accent": "#2E5E8C",
+   "opener": "part6.png",
+   "chapters": [
+    {
+     "number": "37",
+     "title": "Emotion-Focused Therapy",
+     "subtitle": "Greenberg's model of emotion regulation, the change point, and emotion-focused work with youth in distress.",
+     "files": [
+      "ch/37_emotion_focused_therapy_a.md",
+      "ch/37_emotion_focused_therapy_b.md"
+     ],
+     "opener": "ch37_emotion_focused_therapy.png"
+    },
+    {
+     "number": "38",
+     "title": "Trauma-Informed Practice: Principles, Phases, and Precautions",
+     "subtitle": "The neurobiology of threat, the three-phase model, and the ethical floor rules of trauma work.",
+     "files": [
+      "ch/38_trauma_informed_practice_principles_phases_and_p_a.md",
+      "ch/38_trauma_informed_practice_principles_phases_and_p_b.md"
+     ],
+     "opener": "ch38_trauma_informed_practice_principles_phases_and_p.png"
+    },
+    {
+     "number": "39",
+     "title": "EMDR and Bilateral Stimulation",
+     "subtitle": "Shapiro's protocol, the adaptive information processing model, and careful adaptation for children.",
+     "files": [
+      "ch/39_emdr_and_bilateral_stimulation_a.md",
+      "ch/39_emdr_and_bilateral_stimulation_b.md"
+     ],
+     "opener": "ch39_emdr_and_bilateral_stimulation.png"
+    },
+    {
+     "number": "40",
+     "title": "Stabilisation, Grounding, and Phase-Oriented Work",
+     "subtitle": "Skills for the first phase of trauma treatment and the maintenance of stability between sessions.",
+     "files": [
+      "ch/40_stabilisation_grounding_and_phase_oriented_work_a.md",
+      "ch/40_stabilisation_grounding_and_phase_oriented_work_b.md"
+     ],
+     "opener": "ch40_stabilisation_grounding_and_phase_oriented_work.png"
+    },
+    {
+     "number": "41",
+     "title": "Interpersonal Psychotherapy for Adolescents",
+     "subtitle": "Klerman's model, the social problem-solving curriculum, and the treatment of adolescent depression.",
+     "files": [
+      "ch/41_interpersonal_psychotherapy_for_adolescents_a.md",
+      "ch/41_interpersonal_psychotherapy_for_adolescents_b.md"
+     ],
+     "opener": "ch41_interpersonal_psychotherapy_for_adolescents.png"
+    },
+    {
+     "number": "42",
+     "title": "Mentalization-Based Treatment",
+     "subtitle": "Fonagy's model of mentalizing, the not-knowing stance, and epistemic trust.",
+     "files": [
+      "ch/42_mentalization_based_treatment_a.md",
+      "ch/42_mentalization_based_treatment_b.md"
+     ],
+     "opener": "ch42_mentalization_based_treatment.png"
+    },
+    {
+     "number": "43",
+     "title": "Somatic, Sensorimotor, and Polyvagal-Informed Practice",
+     "subtitle": "Body-based approaches, autonomic regulation, and the neuroception of safety.",
+     "files": [
+      "ch/43_somatic_sensorimotor_and_polyvagal_informed_prac_a.md",
+      "ch/43_somatic_sensorimotor_and_polyvagal_informed_prac_b.md"
+     ],
+     "opener": "ch43_somatic_sensorimotor_and_polyvagal_informed_prac.png"
+    }
+   ]
+  },
+  {
+   "number": "VII",
+   "title": "Motivational, Social, Developmental, and Cultural Theories",
+   "blurb": "Theories that attend to motivation, to social learning, to development, and to the cultural and gendered location of the person in the world.",
+   "accent": "#8C5A2B",
+   "opener": "part7.png",
+   "chapters": [
+    {
+     "number": "44",
+     "title": "Motivational Interviewing",
+     "subtitle": "Miller and Rollnick's four processes, change talk, and the adolescent adaptation of a conversational method.",
+     "files": [
+      "ch/44_motivational_interviewing_a.md",
+      "ch/44_motivational_interviewing_b.md"
+     ],
+     "opener": "ch44_motivational_interviewing.png"
+    },
+    {
+     "number": "45",
+     "title": "Social Cognitive Learning Theory",
+     "subtitle": "Bandura's reciprocal determinism, self-efficacy, and the modelling of behaviour in social contexts.",
+     "files": [
+      "ch/45_social_cognitive_learning_theory_a.md",
+      "ch/45_social_cognitive_learning_theory_b.md"
+     ],
+     "opener": "ch45_social_cognitive_learning_theory.png"
+    },
+    {
+     "number": "46",
+     "title": "Adolescent Development: Theory and Counseling Implications",
+     "subtitle": "Identity, autonomy, risk, and peer relations as a developmental framework for intervention.",
+     "files": [
+      "ch/46_adolescent_development_theory_and_counseling_imp_a.md",
+      "ch/46_adolescent_development_theory_and_counseling_imp_b.md"
+     ],
+     "opener": "ch46_adolescent_development_theory_and_counseling_imp.png"
+    },
+    {
+     "number": "47",
+     "title": "Psychodynamic and Object Relations Approaches",
+     "subtitle": "The relational substrate of personality, transference, and developmental lines of interpretation.",
+     "files": [
+      "ch/47_psychodynamic_and_object_relations_approaches_a.md",
+      "ch/47_psychodynamic_and_object_relations_approaches_b.md"
+     ],
+     "opener": "ch47_psychodynamic_and_object_relations_approaches.png"
+    },
+    {
+     "number": "48",
+     "title": "Multicultural, Feminist, and Intersectional Theory",
+     "subtitle": "Power, voice, and privilege in the counseling relationship and in the theories that inform it.",
+     "files": [
+      "ch/48_multicultural_feminist_and_intersectional_theory_a.md",
+      "ch/48_multicultural_feminist_and_intersectional_theory_b.md"
+     ],
+     "opener": "ch48_multicultural_feminist_and_intersectional_theory.png"
+    },
+    {
+     "number": "49",
+     "title": "Affirmative Practice with LGBTQ+ Youth",
+     "subtitle": "Gender-responsive and affirming practice, the role of the therapeutic alliance, and the harms of conversion practices.",
+     "files": [
+      "ch/49_affirmative_practice_with_lgbtq_youth_a.md",
+      "ch/49_affirmative_practice_with_lgbtq_youth_b.md"
+     ],
+     "opener": "ch49_affirmative_practice_with_lgbtq_youth.png"
+    },
+    {
+     "number": "50",
+     "title": "Resilience, Ecological Systems, and Strengths-Based Practice",
+     "subtitle": "Bronfenbrenner, Masten's resilience research, and the systematic mobilisation of protective factors.",
+     "files": [
+      "ch/50_resilience_ecological_systems_and_strengths_base_a.md",
+      "ch/50_resilience_ecological_systems_and_strengths_base_b.md"
+     ],
+     "opener": "ch50_resilience_ecological_systems_and_strengths_base.png"
+    }
+   ]
+  },
+  {
+   "number": "VIII",
+   "title": "Integration, Assessment, and Professional Practice",
+   "blurb": "The working core of the course: how theories are integrated into a coherent stance, how cases are conceptualised, how progress is measured, and how the course itself is taught and assessed.",
+   "accent": "#1B5E20",
+   "opener": "part8.png",
+   "chapters": [
+    {
+     "number": "51",
+     "title": "Theoretical Integration and the Integrative Stance",
+     "subtitle": "Technical eclecticism, assimilative integration, and the discipline of a coherent theory of change.",
+     "files": [
+      "ch/51_theoretical_integration_and_the_integrative_stan_a.md",
+      "ch/51_theoretical_integration_and_the_integrative_stan_b.md"
+     ],
+     "opener": "ch51_theoretical_integration_and_the_integrative_stan.png"
+    },
+    {
+     "number": "52",
+     "title": "Case Conceptualization and Treatment Planning",
+     "subtitle": "The five-part formulation, the mechanism of change, and the written treatment plan.",
+     "files": [
+      "ch/52_case_conceptualization_and_treatment_planning_a.md",
+      "ch/52_case_conceptualization_and_treatment_planning_b.md"
+     ],
+     "opener": "ch52_case_conceptualization_and_treatment_planning.png"
+    },
+    {
+     "number": "53",
+     "title": "Assessment and Outcome Monitoring in Counseling",
+     "subtitle": "Instruments, session notes, measurement-based care, and the ethical use of assessment data.",
+     "files": [
+      "ch/53_assessment_and_outcome_monitoring_in_counseling_a.md",
+      "ch/53_assessment_and_outcome_monitoring_in_counseling_b.md"
+     ],
+     "opener": "ch53_assessment_and_outcome_monitoring_in_counseling.png"
+    },
+    {
+     "number": "54",
+     "title": "Termination, Evaluation, and the Ethics of Endings",
+     "subtitle": "Planned termination, relapse prevention, transfer, and the evaluation of outcome.",
+     "files": [
+      "ch/54_termination_evaluation_and_the_ethics_of_endings_a.md",
+      "ch/54_termination_evaluation_and_the_ethics_of_endings_b.md"
+     ],
+     "opener": "ch54_termination_evaluation_and_the_ethics_of_endings.png"
+    },
+    {
+     "number": "55",
+     "title": "Teletherapy and Technology in Counseling with Youth",
+     "subtitle": "Secure video practice, telehealth with minors, and digital ethics.",
+     "files": [
+      "ch/55_teletherapy_and_technology_in_counseling_with_yo_a.md",
+      "ch/55_teletherapy_and_technology_in_counseling_with_yo_b.md"
+     ],
+     "opener": "ch55_teletherapy_and_technology_in_counseling_with_yo.png"
+    },
+    {
+     "number": "56",
+     "title": "School Counseling Practice and Consultation",
+     "subtitle": "The school counselor's role, the consultation model, and the ethics of working in an institutional setting.",
+     "files": [
+      "ch/56_school_counseling_practice_and_consultation_a.md",
+      "ch/56_school_counseling_practice_and_consultation_b.md"
+     ],
+     "opener": "ch56_school_counseling_practice_and_consultation.png"
+    },
+    {
+     "number": "57",
+     "title": "Teaching CAC. 701: Session Plans and Facilitation",
+     "subtitle": "A complete teaching sequence for the course, including delivery notes, activities, and assessment alignment.",
+     "files": [
+      "ch/57_teaching_cac_701_session_plans_and_facilitation_a.md",
+      "ch/57_teaching_cac_701_session_plans_and_facilitation_b.md"
+     ],
+     "opener": "ch57_teaching_cac_701_session_plans_and_facilitation.png"
+    },
+    {
+     "number": "58",
+     "title": "Assessment Blueprint, Assignments, and Rubrics",
+     "subtitle": "Course-level assessment design, major assignments, grading rubrics, and the assurance of academic integrity.",
+     "files": [
+      "ch/58_assessment_blueprint_assignments_and_rubrics_a.md",
+      "ch/58_assessment_blueprint_assignments_and_rubrics_b.md"
+     ],
+     "opener": "ch58_assessment_blueprint_assignments_and_rubrics.png"
+    }
+   ]
+  }
+ ],
+ "appendices": [
+  {
+   "letter": "A",
+   "label": "APPENDIX A",
+   "title": "Consent, Assent, and Records Forms",
+   "subtitle": "Model documentation for minors, families, and schools.",
+   "files": [
+    "app/A1.md",
+    "app/A2.md",
+    "app/A3.md"
+   ]
+  },
+  {
+   "letter": "B",
+   "label": "APPENDIX B",
+   "title": "Case Study Portfolio",
+   "subtitle": "Twelve extended composite case studies for seminar use.",
+   "files": [
+    "app/B1.md",
+    "app/B2.md",
+    "app/B3.md",
+    "app/B4.md"
+   ]
+  },
+  {
+   "letter": "C",
+   "label": "APPENDIX C",
+   "title": "Theory Comparison Matrices",
+   "subtitle": "Side-by-side comparison of all theories covered in the course.",
+   "files": [
+    "app/C1.md",
+    "app/C2.md"
+   ]
+  },
+  {
+   "letter": "D",
+   "label": "APPENDIX D",
+   "title": "Glossary of Terms",
+   "subtitle": "A comprehensive glossary of theory, practice, and developmental terminology.",
+   "files": [
+    "app/D1.md",
+    "app/D2.md",
+    "app/D3.md"
+   ]
+  },
+  {
+   "letter": "E",
+   "label": "APPENDIX E",
+   "title": "Annotated Bibliography",
+   "subtitle": "Foundational works, contemporary reviews, and reading pathways.",
+   "files": [
+    "app/E1.md",
+    "app/E2.md"
+   ]
+  },
+  {
+   "letter": "F",
+   "label": "APPENDIX F",
+   "title": "Session and Worksheet Templates",
+   "subtitle": "Reusable session outlines, thought records, scales, and trackers.",
+   "files": [
+    "app/F1.md",
+    "app/F2.md"
+   ]
+  },
+  {
+   "letter": "G",
+   "label": "APPENDIX G",
+   "title": "Supervision and Reflection Templates",
+   "subtitle": "Structured instruments for supervision, consultation, and reflective practice.",
+   "files": [
+    "app/G1.md",
+    "app/G2.md"
+   ]
+  },
+  {
+   "letter": "H",
+   "label": "APPENDIX H",
+   "title": "Referral, Documentation, and Crisis Resources",
+   "subtitle": "Referral mapping, documentation standards, and safety planning.",
+   "files": [
+    "app/H1.md",
+    "app/H2.md"
+   ]
+  },
+  {
+   "letter": "I",
+   "label": "APPENDIX I",
+   "title": "Glossary of Acronyms and Course FAQ",
+   "subtitle": "Abbreviations used throughout the book and answers to recurring student questions.",
+   "files": [
+    "app/I1.md"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,771 @@
+{
+ "course_code": "CAC. 702",
+ "course_title": "Adolescent Development",
+ "programme": "Master of Arts in Children and Adolescent Counseling",
+ "institution": "Triune Biblical University Global Extension",
+ "front_order": [
+  "00_half_title.md",
+  "01_copyright.md",
+  "02_dedication.md",
+  "03_preface.md",
+  "04_how_to_use.md",
+  "05_course_alignment.md",
+  "06_about_this_edition.md",
+  "07_contributors.md"
+ ],
+ "parts": [
+  {
+   "number": "I",
+   "title": "Foundations of Adolescent Development",
+   "blurb": "The intellectual scaffolding of the course: what adolescence is, how it has been studied, which theories explain it, how evidence is built, and how developmental knowledge becomes professional competence in the counselling room.",
+   "accent": "#173A5E",
+   "opener": "part1.png",
+   "chapters": [
+    {
+     "number": "1",
+     "title": "Understanding Adolescence as a Developmental Period",
+     "subtitle": "Definitions, boundaries, stages and the developmental meaning of the second decade of life.",
+     "files": [
+      "ch/01_understanding_adolescence_as_a_developmental_per_a.md",
+      "ch/01_understanding_adolescence_as_a_developmental_per_b.md"
+     ],
+     "opener": "ch01_understanding_adolescence_as_a_developmental_per.png"
+    },
+    {
+     "number": "2",
+     "title": "Historical, Cultural and Scientific Foundations of Adolescence Research",
+     "subtitle": "From storm and stress to developmental science: how the study of adolescence was built.",
+     "files": [
+      "ch/02_historical_cultural_and_scientific_foundations_o_a.md",
+      "ch/02_historical_cultural_and_scientific_foundations_o_b.md"
+     ],
+     "opener": "ch02_historical_cultural_and_scientific_foundations_o.png"
+    },
+    {
+     "number": "3",
+     "title": "Theoretical Frameworks I: Biological, Psychosexual and Psychosocial Theories",
+     "subtitle": "Puberty-centred, Freudian and Erikson readings of the adolescent transition.",
+     "files": [
+      "ch/03_theoretical_frameworks_i_biological_psychosexual_a.md",
+      "ch/03_theoretical_frameworks_i_biological_psychosexual_b.md"
+     ],
+     "opener": "ch03_theoretical_frameworks_i_biological_psychosexual.png"
+    },
+    {
+     "number": "4",
+     "title": "Theoretical Frameworks II: Cognitive, Learning and Ecological Theories",
+     "subtitle": "Piaget, Vygotsky, learning theory, Bronfenbrenner and the systems that organise adolescent growth.",
+     "files": [
+      "ch/04_theoretical_frameworks_ii_cognitive_learning_and_a.md",
+      "ch/04_theoretical_frameworks_ii_cognitive_learning_and_b.md"
+     ],
+     "opener": "ch04_theoretical_frameworks_ii_cognitive_learning_and.png"
+    },
+    {
+     "number": "5",
+     "title": "Research Methods and Evidence in Adolescent Development",
+     "subtitle": "How developmental claims are tested, measured, replicated and turned into trustworthy knowledge.",
+     "files": [
+      "ch/05_research_methods_and_evidence_in_adolescent_deve_a.md",
+      "ch/05_research_methods_and_evidence_in_adolescent_deve_b.md"
+     ],
+     "opener": "ch05_research_methods_and_evidence_in_adolescent_deve.png"
+    },
+    {
+     "number": "6",
+     "title": "The Ecological Contexts of Adolescence",
+     "subtitle": "Family, school, peers, neighbourhood, media and culture as one connected developmental system.",
+     "files": [
+      "ch/06_the_ecological_contexts_of_adolescence_a.md",
+      "ch/06_the_ecological_contexts_of_adolescence_b.md"
+     ],
+     "opener": "ch06_the_ecological_contexts_of_adolescence.png"
+    },
+    {
+     "number": "7",
+     "title": "Developmental Tasks, Transitions and Timing",
+     "subtitle": "What adolescents must accomplish, when transitions help or hurt, and why timing matters.",
+     "files": [
+      "ch/07_developmental_tasks_transitions_and_timing_a.md",
+      "ch/07_developmental_tasks_transitions_and_timing_b.md"
+     ],
+     "opener": "ch07_developmental_tasks_transitions_and_timing.png"
+    },
+    {
+     "number": "8",
+     "title": "From Development to Practice: What Counsellors Must Know",
+     "subtitle": "Translating developmental science into assessment, formulation, intervention and advocacy.",
+     "files": [
+      "ch/08_from_development_to_practice_what_counsellors_mu_a.md",
+      "ch/08_from_development_to_practice_what_counsellors_mu_b.md"
+     ],
+     "opener": "ch08_from_development_to_practice_what_counsellors_mu.png"
+    }
+   ]
+  },
+  {
+   "number": "II",
+   "title": "Biological Development and Health",
+   "blurb": "The body in transition: puberty, the developing brain, sleep, sexuality, body image, movement, illness and disability, and what each means for adolescents and for the counsellors who serve them.",
+   "accent": "#1F6F6B",
+   "opener": "part2.png",
+   "chapters": [
+    {
+     "number": "9",
+     "title": "Puberty: Hormones, Growth and Physical Change",
+     "subtitle": "The endocrine choreography of puberty and its psychological meaning for adolescents.",
+     "files": [
+      "ch/09_puberty_hormones_growth_and_physical_change_a.md",
+      "ch/09_puberty_hormones_growth_and_physical_change_b.md"
+     ],
+     "opener": "ch09_puberty_hormones_growth_and_physical_change.png"
+    },
+    {
+     "number": "10",
+     "title": "Brain Development in Adolescence",
+     "subtitle": "Synaptic pruning, myelination, reward sensitivity and the long maturation of self-regulation.",
+     "files": [
+      "ch/10_brain_development_in_adolescence_a.md",
+      "ch/10_brain_development_in_adolescence_b.md"
+     ],
+     "opener": "ch10_brain_development_in_adolescence.png"
+    },
+    {
+     "number": "11",
+     "title": "Sleep, Energy and Circadian Change in Adolescence",
+     "subtitle": "Delayed sleep phase, school start times, fatigue and the regulation of energy and mood.",
+     "files": [
+      "ch/11_sleep_energy_and_circadian_change_in_adolescence_a.md",
+      "ch/11_sleep_energy_and_circadian_change_in_adolescence_b.md"
+     ],
+     "opener": "ch11_sleep_energy_and_circadian_change_in_adolescence.png"
+    },
+    {
+     "number": "12",
+     "title": "Sexual Development and Sexual Health in Adolescence",
+     "subtitle": "Sexual maturation, romantic interest, health behaviour, consent and developmentally appropriate support.",
+     "files": [
+      "ch/12_sexual_development_and_sexual_health_in_adolesce_a.md",
+      "ch/12_sexual_development_and_sexual_health_in_adolesce_b.md"
+     ],
+     "opener": "ch12_sexual_development_and_sexual_health_in_adolesce.png"
+    },
+    {
+     "number": "13",
+     "title": "Body Image, Nutrition, Eating and Weight Concerns",
+     "subtitle": "How adolescents evaluate their changing bodies, and when concern becomes clinical risk.",
+     "files": [
+      "ch/13_body_image_nutrition_eating_and_weight_concerns_a.md",
+      "ch/13_body_image_nutrition_eating_and_weight_concerns_b.md"
+     ],
+     "opener": "ch13_body_image_nutrition_eating_and_weight_concerns.png"
+    },
+    {
+     "number": "14",
+     "title": "Physical Activity, Sport and the Developing Body",
+     "subtitle": "Movement, motor development, sport participation, dropout and the counselling significance of the active body.",
+     "files": [
+      "ch/14_physical_activity_sport_and_the_developing_body_a.md",
+      "ch/14_physical_activity_sport_and_the_developing_body_b.md"
+     ],
+     "opener": "ch14_physical_activity_sport_and_the_developing_body.png"
+    },
+    {
+     "number": "15",
+     "title": "Chronic Illness, Disability and Health in Adolescence",
+     "subtitle": "Growing up with a health condition: adherence, autonomy, identity and family negotiation.",
+     "files": [
+      "ch/15_chronic_illness_disability_and_health_in_adolesc_a.md",
+      "ch/15_chronic_illness_disability_and_health_in_adolesc_b.md"
+     ],
+     "opener": "ch15_chronic_illness_disability_and_health_in_adolesc.png"
+    }
+   ]
+  },
+  {
+   "number": "III",
+   "title": "Cognitive Development and Learning",
+   "blurb": "The mind in transition: abstract thought, executive function, decision making, language, motivation, digital cognition, giftedness and neurodiversity across the adolescent years.",
+   "accent": "#6B3E75",
+   "opener": "part3.png",
+   "chapters": [
+    {
+     "number": "16",
+     "title": "Cognitive Transitions: From Concrete to Abstract Thought",
+     "subtitle": "Formal operations, hypothetical reasoning, idealism and the new mental powers of adolescence.",
+     "files": [
+      "ch/16_cognitive_transitions_from_concrete_to_abstract__a.md",
+      "ch/16_cognitive_transitions_from_concrete_to_abstract__b.md"
+     ],
+     "opener": "ch16_cognitive_transitions_from_concrete_to_abstract_.png"
+    },
+    {
+     "number": "17",
+     "title": "Information Processing, Memory and Executive Function",
+     "subtitle": "Attention, working memory, processing speed, metacognition and the executive system at school and at home.",
+     "files": [
+      "ch/17_information_processing_memory_and_executive_func_a.md",
+      "ch/17_information_processing_memory_and_executive_func_b.md"
+     ],
+     "opener": "ch17_information_processing_memory_and_executive_func.png"
+    },
+    {
+     "number": "18",
+     "title": "Decision Making, Reasoning and Risk Perception",
+     "subtitle": "Cold and hot cognition, peer presence, probability, and why smart adolescents make risky choices.",
+     "files": [
+      "ch/18_decision_making_reasoning_and_risk_perception_a.md",
+      "ch/18_decision_making_reasoning_and_risk_perception_b.md"
+     ],
+     "opener": "ch18_decision_making_reasoning_and_risk_perception.png"
+    },
+    {
+     "number": "19",
+     "title": "Language, Literacy and Communication Development",
+     "subtitle": "Vocabulary, argument, pragmatics, literacy demands and the communicative competence counselling depends on.",
+     "files": [
+      "ch/19_language_literacy_and_communication_development_a.md",
+      "ch/19_language_literacy_and_communication_development_b.md"
+     ],
+     "opener": "ch19_language_literacy_and_communication_development.png"
+    },
+    {
+     "number": "20",
+     "title": "Academic Development, Motivation and School Engagement",
+     "subtitle": "Expectancy, value, belonging, achievement trajectories and the counsellor's role in school success.",
+     "files": [
+      "ch/20_academic_development_motivation_and_school_engag_a.md",
+      "ch/20_academic_development_motivation_and_school_engag_b.md"
+     ],
+     "opener": "ch20_academic_development_motivation_and_school_engag.png"
+    },
+    {
+     "number": "21",
+     "title": "Digital Cognition: Media, Technology and the Adolescent Mind",
+     "subtitle": "Attention, multitasking, online learning, gaming, algorithms and thinking with networked tools.",
+     "files": [
+      "ch/21_digital_cognition_media_technology_and_the_adole_a.md",
+      "ch/21_digital_cognition_media_technology_and_the_adole_b.md"
+     ],
+     "opener": "ch21_digital_cognition_media_technology_and_the_adole.png"
+    },
+    {
+     "number": "22",
+     "title": "Giftedness, Learning Differences and Neurodiversity in Adolescence",
+     "subtitle": "Twice-exceptionality, dyslexia, ADHD, autistic adolescence and strength-based developmental support.",
+     "files": [
+      "ch/22_giftedness_learning_differences_and_neurodiversi_a.md",
+      "ch/22_giftedness_learning_differences_and_neurodiversi_b.md"
+     ],
+     "opener": "ch22_giftedness_learning_differences_and_neurodiversi.png"
+    }
+   ]
+  },
+  {
+   "number": "IV",
+   "title": "Identity, Self and Social Cognition",
+   "blurb": "The person in formation: identity, self-concept, gender, cultural identity, moral growth, empathy, autonomy, and the possible selves adolescents imagine and pursue.",
+   "accent": "#9B2C2C",
+   "opener": "part4.png",
+   "chapters": [
+    {
+     "number": "23",
+     "title": "Identity Formation and Psychosocial Development",
+     "subtitle": "Erikson, Marcia, identity statuses, exploration, commitment and the central task of adolescence.",
+     "files": [
+      "ch/23_identity_formation_and_psychosocial_development_a.md",
+      "ch/23_identity_formation_and_psychosocial_development_b.md"
+     ],
+     "opener": "ch23_identity_formation_and_psychosocial_development.png"
+    },
+    {
+     "number": "24",
+     "title": "Self-Concept, Self-Esteem and Possible Selves",
+     "subtitle": "Domain-specific self-views, the trajectory of self-esteem, and the future selves that motivate behaviour.",
+     "files": [
+      "ch/24_self_concept_self_esteem_and_possible_selves_a.md",
+      "ch/24_self_concept_self_esteem_and_possible_selves_b.md"
+     ],
+     "opener": "ch24_self_concept_self_esteem_and_possible_selves.png"
+    },
+    {
+     "number": "25",
+     "title": "Gender Development and Gender Identity in Adolescence",
+     "subtitle": "Gender intensification, expression, identity development and respectful, evidence-based support.",
+     "files": [
+      "ch/25_gender_development_and_gender_identity_in_adoles_a.md",
+      "ch/25_gender_development_and_gender_identity_in_adoles_b.md"
+     ],
+     "opener": "ch25_gender_development_and_gender_identity_in_adoles.png"
+    },
+    {
+     "number": "26",
+     "title": "Ethnic-Racial and Cultural Identity Development",
+     "subtitle": "Belonging, exploration, discrimination, enculturation and pride in a multicultural world.",
+     "files": [
+      "ch/26_ethnic_racial_and_cultural_identity_development_a.md",
+      "ch/26_ethnic_racial_and_cultural_identity_development_b.md"
+     ],
+     "opener": "ch26_ethnic_racial_and_cultural_identity_development.png"
+    },
+    {
+     "number": "27",
+     "title": "Moral Development, Values and Prosocial Growth",
+     "subtitle": "From rule obedience to principle: conscience, fairness, honesty, helping and civic responsibility.",
+     "files": [
+      "ch/27_moral_development_values_and_prosocial_growth_a.md",
+      "ch/27_moral_development_values_and_prosocial_growth_b.md"
+     ],
+     "opener": "ch27_moral_development_values_and_prosocial_growth.png"
+    },
+    {
+     "number": "28",
+     "title": "Social Cognition, Perspective Taking and Empathy",
+     "subtitle": "Theory of mind, mentalising, social inference and the growth of interpersonal understanding.",
+     "files": [
+      "ch/28_social_cognition_perspective_taking_and_empathy_a.md",
+      "ch/28_social_cognition_perspective_taking_and_empathy_b.md"
+     ],
+     "opener": "ch28_social_cognition_perspective_taking_and_empathy.png"
+    },
+    {
+     "number": "29",
+     "title": "Autonomy, Individuation and the Emerging Self",
+     "subtitle": "Behavioural, emotional and value autonomy, psychological control, and separating without disconnecting.",
+     "files": [
+      "ch/29_autonomy_individuation_and_the_emerging_self_a.md",
+      "ch/29_autonomy_individuation_and_the_emerging_self_b.md"
+     ],
+     "opener": "ch29_autonomy_individuation_and_the_emerging_self.png"
+    }
+   ]
+  },
+  {
+   "number": "V",
+   "title": "Emotional and Relational Development",
+   "blurb": "The relational world: emotion, attachment, parents, peers, romance, digital social life, belonging, and the changing bonds through which adolescents grow.",
+   "accent": "#A9741F",
+   "opener": "part5.png",
+   "chapters": [
+    {
+     "number": "30",
+     "title": "Emotional Development and Emotion Regulation",
+     "subtitle": "Emotional intensity, regulation strategies, mood, and teaching adolescents to steer strong feeling.",
+     "files": [
+      "ch/30_emotional_development_and_emotion_regulation_a.md",
+      "ch/30_emotional_development_and_emotion_regulation_b.md"
+     ],
+     "opener": "ch30_emotional_development_and_emotion_regulation.png"
+    },
+    {
+     "number": "31",
+     "title": "Attachment in Adolescence and Changing Bonds with Parents",
+     "subtitle": "Secure base, safe haven, attachment reorganisation and the transfer of attachment functions to peers.",
+     "files": [
+      "ch/31_attachment_in_adolescence_and_changing_bonds_wit_a.md",
+      "ch/31_attachment_in_adolescence_and_changing_bonds_wit_b.md"
+     ],
+     "opener": "ch31_attachment_in_adolescence_and_changing_bonds_wit.png"
+    },
+    {
+     "number": "32",
+     "title": "Parent-Adolescent Relationships, Conflict and Communication",
+     "subtitle": "Everyday conflict, disclosure, monitoring, warmth and the renegotiation of authority.",
+     "files": [
+      "ch/32_parent_adolescent_relationships_conflict_and_com_a.md",
+      "ch/32_parent_adolescent_relationships_conflict_and_com_b.md"
+     ],
+     "opener": "ch32_parent_adolescent_relationships_conflict_and_com.png"
+    },
+    {
+     "number": "33",
+     "title": "Peer Relationships, Friendship and Popularity",
+     "subtitle": "Acceptance, rejection, crowds, cliques, friendship quality and the social curriculum of peers.",
+     "files": [
+      "ch/33_peer_relationships_friendship_and_popularity_a.md",
+      "ch/33_peer_relationships_friendship_and_popularity_b.md"
+     ],
+     "opener": "ch33_peer_relationships_friendship_and_popularity.png"
+    },
+    {
+     "number": "34",
+     "title": "Romantic Relationships, Dating and Intimacy in Adolescence",
+     "subtitle": "First relationships, intimacy, breakups, digital romance and healthy relationship education.",
+     "files": [
+      "ch/34_romantic_relationships_dating_and_intimacy_in_ad_a.md",
+      "ch/34_romantic_relationships_dating_and_intimacy_in_ad_b.md"
+     ],
+     "opener": "ch34_romantic_relationships_dating_and_intimacy_in_ad.png"
+    },
+    {
+     "number": "35",
+     "title": "Social Media Relationships and Digital Social Life",
+     "subtitle": "Online friendship, social comparison, disclosure, exclusion, support and digital belonging.",
+     "files": [
+      "ch/35_social_media_relationships_and_digital_social_li_a.md",
+      "ch/35_social_media_relationships_and_digital_social_li_b.md"
+     ],
+     "opener": "ch35_social_media_relationships_and_digital_social_li.png"
+    },
+    {
+     "number": "36",
+     "title": "Loneliness, Belonging and Social Withdrawal",
+     "subtitle": "The need to belong, chronic loneliness, shyness, social anxiety and re-engaging isolated adolescents.",
+     "files": [
+      "ch/36_loneliness_belonging_and_social_withdrawal_a.md",
+      "ch/36_loneliness_belonging_and_social_withdrawal_b.md"
+     ],
+     "opener": "ch36_loneliness_belonging_and_social_withdrawal.png"
+    }
+   ]
+  },
+  {
+   "number": "VI",
+   "title": "Risk, Resilience and Psychosocial Challenges",
+   "blurb": "When development is stressed: coping, risk-taking, substances, conduct, bullying, self-harm, adversity, and the protective processes that carry adolescents through.",
+   "accent": "#2E5E8C",
+   "opener": "part6.png",
+   "chapters": [
+    {
+     "number": "37",
+     "title": "Stress, Coping and Mental Health Foundations in Adolescence",
+     "subtitle": "Stress appraisal, coping repertoires, allostatic load and the developmental origins of disorder.",
+     "files": [
+      "ch/37_stress_coping_and_mental_health_foundations_in_a_a.md",
+      "ch/37_stress_coping_and_mental_health_foundations_in_a_b.md"
+     ],
+     "opener": "ch37_stress_coping_and_mental_health_foundations_in_a.png"
+    },
+    {
+     "number": "38",
+     "title": "Risk-Taking, Sensation Seeking and Problem Behaviour",
+     "subtitle": "Why adolescents take risks, which risks matter, and how adults can channel rather than merely forbid.",
+     "files": [
+      "ch/38_risk_taking_sensation_seeking_and_problem_behavi_a.md",
+      "ch/38_risk_taking_sensation_seeking_and_problem_behavi_b.md"
+     ],
+     "opener": "ch38_risk_taking_sensation_seeking_and_problem_behavi.png"
+    },
+    {
+     "number": "39",
+     "title": "Substance Use Development, Prevention and Early Intervention",
+     "subtitle": "Initiation, trajectories, peer and family influence, prevention science and brief intervention.",
+     "files": [
+      "ch/39_substance_use_development_prevention_and_early_i_a.md",
+      "ch/39_substance_use_development_prevention_and_early_i_b.md"
+     ],
+     "opener": "ch39_substance_use_development_prevention_and_early_i.png"
+    },
+    {
+     "number": "40",
+     "title": "Conduct Problems, Delinquency and Youth Justice Contexts",
+     "subtitle": "Antisocial trajectories, aggression, desistance and developmentally informed responses to offending.",
+     "files": [
+      "ch/40_conduct_problems_delinquency_and_youth_justice_c_a.md",
+      "ch/40_conduct_problems_delinquency_and_youth_justice_c_b.md"
+     ],
+     "opener": "ch40_conduct_problems_delinquency_and_youth_justice_c.png"
+    },
+    {
+     "number": "41",
+     "title": "Bullying, Victimisation and Cyberbullying",
+     "subtitle": "Participant roles, power imbalance, school climate and whole-school developmental responses.",
+     "files": [
+      "ch/41_bullying_victimisation_and_cyberbullying_a.md",
+      "ch/41_bullying_victimisation_and_cyberbullying_b.md"
+     ],
+     "opener": "ch41_bullying_victimisation_and_cyberbullying.png"
+    },
+    {
+     "number": "42",
+     "title": "Self-Harm, Suicidal Ideation and Adolescent Safety",
+     "subtitle": "Developmental understanding, risk and protective factors, assessment, safety planning and postvention.",
+     "files": [
+      "ch/42_self_harm_suicidal_ideation_and_adolescent_safet_a.md",
+      "ch/42_self_harm_suicidal_ideation_and_adolescent_safet_b.md"
+     ],
+     "opener": "ch42_self_harm_suicidal_ideation_and_adolescent_safet.png"
+    },
+    {
+     "number": "43",
+     "title": "Adversity, Trauma and Developmental Timing",
+     "subtitle": "Adverse experiences, toxic stress, developmental trauma and trauma-informed counselling practice.",
+     "files": [
+      "ch/43_adversity_trauma_and_developmental_timing_a.md",
+      "ch/43_adversity_trauma_and_developmental_timing_b.md"
+     ],
+     "opener": "ch43_adversity_trauma_and_developmental_timing.png"
+    },
+    {
+     "number": "44",
+     "title": "Resilience, Protective Factors and Positive Youth Development",
+     "subtitle": "Ordinary magic: the relationships, competencies and opportunities that carry adolescents through adversity.",
+     "files": [
+      "ch/44_resilience_protective_factors_and_positive_youth_a.md",
+      "ch/44_resilience_protective_factors_and_positive_youth_b.md"
+     ],
+     "opener": "ch44_resilience_protective_factors_and_positive_youth.png"
+    }
+   ]
+  },
+  {
+   "number": "VII",
+   "title": "Diversity, Culture and Life Contexts",
+   "blurb": "Development in context: culture and migration, socioeconomic opportunity, family transitions, affirming practice, inclusion, vocation, and the global realities of contemporary adolescence.",
+   "accent": "#3E6B35",
+   "opener": "part7.png",
+   "chapters": [
+    {
+     "number": "45",
+     "title": "Culture, Migration and Acculturation in Adolescence",
+     "subtitle": "Cultural socialisation, acculturative stress, bicultural competence and counselling across difference.",
+     "files": [
+      "ch/45_culture_migration_and_acculturation_in_adolescen_a.md",
+      "ch/45_culture_migration_and_acculturation_in_adolescen_b.md"
+     ],
+     "opener": "ch45_culture_migration_and_acculturation_in_adolescen.png"
+    },
+    {
+     "number": "46",
+     "title": "Socioeconomic Contexts, Poverty and Opportunity in Adolescence",
+     "subtitle": "Family stress, neighbourhood effects, material hardship, aspiration and structural opportunity.",
+     "files": [
+      "ch/46_socioeconomic_contexts_poverty_and_opportunity_i_a.md",
+      "ch/46_socioeconomic_contexts_poverty_and_opportunity_i_b.md"
+     ],
+     "opener": "ch46_socioeconomic_contexts_poverty_and_opportunity_i.png"
+    },
+    {
+     "number": "47",
+     "title": "Adolescents in Families in Transition",
+     "subtitle": "Parental separation, repartnering, kinship care, foster care and loyalty, loss and reorganisation.",
+     "files": [
+      "ch/47_adolescents_in_families_in_transition_a.md",
+      "ch/47_adolescents_in_families_in_transition_b.md"
+     ],
+     "opener": "ch47_adolescents_in_families_in_transition.png"
+    },
+    {
+     "number": "48",
+     "title": "LGBTQ+ Adolescent Development and Affirmative Support",
+     "subtitle": "Identity development, minority stress, family acceptance, school safety and affirming counselling.",
+     "files": [
+      "ch/48_lgbtq_adolescent_development_and_affirmative_sup_a.md",
+      "ch/48_lgbtq_adolescent_development_and_affirmative_sup_b.md"
+     ],
+     "opener": "ch48_lgbtq_adolescent_development_and_affirmative_sup.png"
+    },
+    {
+     "number": "49",
+     "title": "Inclusive Development: Disability, Difference and Participation",
+     "subtitle": "Accessibility, stigma, self-determination, peer inclusion and planning for adult life.",
+     "files": [
+      "ch/49_inclusive_development_disability_difference_and__a.md",
+      "ch/49_inclusive_development_disability_difference_and__b.md"
+     ],
+     "opener": "ch49_inclusive_development_disability_difference_and_.png"
+    },
+    {
+     "number": "50",
+     "title": "Career, Vocation and Future Orientation in Adolescence",
+     "subtitle": "Career exploration, aspirations, decision readiness, work experience and imagining an adult life.",
+     "files": [
+      "ch/50_career_vocation_and_future_orientation_in_adoles_a.md",
+      "ch/50_career_vocation_and_future_orientation_in_adoles_b.md"
+     ],
+     "opener": "ch50_career_vocation_and_future_orientation_in_adoles.png"
+    },
+    {
+     "number": "51",
+     "title": "Meaning-Making, Values and Worldview Development in Adolescence",
+     "subtitle": "How adolescents build worldviews, purpose, ethics and meaning through reflection, culture and experience.",
+     "files": [
+      "ch/51_meaning_making_values_and_worldview_development__a.md",
+      "ch/51_meaning_making_values_and_worldview_development__b.md"
+     ],
+     "opener": "ch51_meaning_making_values_and_worldview_development_.png"
+    }
+   ]
+  },
+  {
+   "number": "VIII",
+   "title": "Development-Informed Counselling Practice",
+   "blurb": "From knowledge to practice: developmental assessment, formulation, matched intervention, family and school partnership, prevention, ethics, safeguarding, and the assessment of learning in CAC. 702.",
+   "accent": "#7A3B2E",
+   "opener": "part8.png",
+   "chapters": [
+    {
+     "number": "52",
+     "title": "Developmental Assessment and Case Formulation for Adolescents",
+     "subtitle": "History-taking, milestones, multi-informant assessment, measures and writing formulations that guide help.",
+     "files": [
+      "ch/52_developmental_assessment_and_case_formulation_fo_a.md",
+      "ch/52_developmental_assessment_and_case_formulation_fo_b.md"
+     ],
+     "opener": "ch52_developmental_assessment_and_case_formulation_fo.png"
+    },
+    {
+     "number": "53",
+     "title": "Counselling Approaches Matched to Developmental Level",
+     "subtitle": "Adapting language, pacing, methods, media and goals to early, middle and late adolescence.",
+     "files": [
+      "ch/53_counselling_approaches_matched_to_developmental__a.md",
+      "ch/53_counselling_approaches_matched_to_developmental__b.md"
+     ],
+     "opener": "ch53_counselling_approaches_matched_to_developmental_.png"
+    },
+    {
+     "number": "54",
+     "title": "Working with Parents, Families and Schools in Adolescent Counselling",
+     "subtitle": "Confidentiality, collaboration, feedback, family sessions and school partnership without losing the adolescent.",
+     "files": [
+      "ch/54_working_with_parents_families_and_schools_in_ado_a.md",
+      "ch/54_working_with_parents_families_and_schools_in_ado_b.md"
+     ],
+     "opener": "ch54_working_with_parents_families_and_schools_in_ado.png"
+    },
+    {
+     "number": "55",
+     "title": "School Counselling, Guidance and Developmental Programming",
+     "subtitle": "Comprehensive programmes, classroom guidance, transition support and whole-school development work.",
+     "files": [
+      "ch/55_school_counselling_guidance_and_developmental_pr_a.md",
+      "ch/55_school_counselling_guidance_and_developmental_pr_b.md"
+     ],
+     "opener": "ch55_school_counselling_guidance_and_developmental_pr.png"
+    },
+    {
+     "number": "56",
+     "title": "Prevention, Early Intervention and Developmental Monitoring",
+     "subtitle": "Universal, selective and indicated prevention, screening ethics and monitoring growth over time.",
+     "files": [
+      "ch/56_prevention_early_intervention_and_developmental__a.md",
+      "ch/56_prevention_early_intervention_and_developmental__b.md"
+     ],
+     "opener": "ch56_prevention_early_intervention_and_developmental_.png"
+    },
+    {
+     "number": "57",
+     "title": "Ethics, Safeguarding and Professional Practice with Adolescents",
+     "subtitle": "Consent and assent, confidentiality limits, records, safeguarding duties and ethical decision making.",
+     "files": [
+      "ch/57_ethics_safeguarding_and_professional_practice_wi_a.md",
+      "ch/57_ethics_safeguarding_and_professional_practice_wi_b.md"
+     ],
+     "opener": "ch57_ethics_safeguarding_and_professional_practice_wi.png"
+    },
+    {
+     "number": "58",
+     "title": "Course Integration: Teaching, Assessing and Applying CAC. 702",
+     "subtitle": "Integrating the course, preparing for examination, building a portfolio and planning continued development.",
+     "files": [
+      "ch/58_course_integration_teaching_assessing_and_applyi_a.md",
+      "ch/58_course_integration_teaching_assessing_and_applyi_b.md"
+     ],
+     "opener": "ch58_course_integration_teaching_assessing_and_applyi.png"
+    }
+   ]
+  }
+ ],
+ "appendices": [
+  {
+   "letter": "A",
+   "label": "APPENDIX A",
+   "title": "Developmental History, Intake and Consent Forms",
+   "subtitle": "Model documentation for adolescents, families and schools.",
+   "files": [
+    "app/A1.md",
+    "app/A2.md",
+    "app/A3.md"
+   ]
+  },
+  {
+   "letter": "B",
+   "label": "APPENDIX B",
+   "title": "Adolescent Case Portfolio",
+   "subtitle": "Twelve composite extended cases for seminar and coursework use.",
+   "files": [
+    "app/B1.md",
+    "app/B2.md",
+    "app/B3.md"
+   ]
+  },
+  {
+   "letter": "C",
+   "label": "APPENDIX C",
+   "title": "Developmental Milestones and Theory Comparison Matrices",
+   "subtitle": "Quick-reference charts for revision, supervision and practice.",
+   "files": [
+    "app/C1.md",
+    "app/C2.md",
+    "app/C3.md"
+   ]
+  },
+  {
+   "letter": "D",
+   "label": "APPENDIX D",
+   "title": "Glossary of Adolescent Development",
+   "subtitle": "Definitions of the technical vocabulary of the course.",
+   "files": [
+    "app/D1.md",
+    "app/D2.md",
+    "app/D3.md"
+   ]
+  },
+  {
+   "letter": "E",
+   "label": "APPENDIX E",
+   "title": "Annotated Bibliography and Research Resources",
+   "subtitle": "The reading architecture of the course, with access guidance.",
+   "files": [
+    "app/E1.md",
+    "app/E2.md",
+    "app/E3.md"
+   ]
+  },
+  {
+   "letter": "F",
+   "label": "APPENDIX F",
+   "title": "Worksheets and Session Tools for Adolescents",
+   "subtitle": "Reproducible tools for sessions, classrooms and homework practice.",
+   "files": [
+    "app/F1.md",
+    "app/F2.md",
+    "app/F3.md"
+   ]
+  },
+  {
+   "letter": "G",
+   "label": "APPENDIX G",
+   "title": "Supervision and Reflective Practice Templates",
+   "subtitle": "Structures for supervision, reflection and practitioner development.",
+   "files": [
+    "app/G1.md",
+    "app/G2.md",
+    "app/G3.md"
+   ]
+  },
+  {
+   "letter": "H",
+   "label": "APPENDIX H",
+   "title": "Referral, Safeguarding and Crisis Pathways",
+   "subtitle": "Who does what, when, and how quickly: escalation in practice.",
+   "files": [
+    "app/H1.md",
+    "app/H2.md",
+    "app/H3.md"
+   ]
+  },
+  {
+   "letter": "I",
+   "label": "APPENDIX I",
+   "title": "Acronyms, Study Guide and Frequently Asked Questions",
+   "subtitle": "Course navigation, examination preparation and answers to common questions.",
+   "files": [
+    "app/I1.md",
+    "app/I2.md",
+    "app/I3.md"
+   ]
+  }
+ ]
+}
