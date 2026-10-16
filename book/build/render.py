@@ -579,21 +579,23 @@ def build_table(data, tbl_no=None, caption=None):
     return out
 
 
-def _chunk_flowables(flow, max_height=470.0):
+def _chunk_flowables(flow, max_height=430.0, width=None):
     """Split a list of flowables into groups that each fit in max_height.
 
     Used so that long special boxes (case illustrations, key terms,
     ethics notes) can flow across page boundaries instead of raising a
     LayoutError when the assembled table is taller than the frame.
     """
+    if width is None:
+        width = TEXT_W - 24
     chunks = []
     cur = []
     cur_h = 0.0
     for f in flow:
         try:
-            w, h = f.wrap(TEXT_W, max_height)
+            w, h = f.wrap(width, max_height)
         except Exception:
-            w, h = TEXT_W, 0.0
+            w, h = width, 0.0
         # A flowable that cannot fit on its own starts a fresh chunk.
         if cur and cur_h + h > max_height:
             chunks.append(cur)
@@ -640,6 +642,60 @@ def _special_table(label, flow, accent, bg, cont=False):
     return t
 
 
+# Height available to a special box on a body page.
+_BOX_AVAIL = PAGE_H - TOP - BOT - 34
+
+
+def _is_heading(f):
+    st = getattr(f, "style", None)
+    return st is not None and getattr(st, "name", "") in ("box_h4", "h4")
+
+
+def _fits(label, flow, accent, bg, avail):
+    if not flow:
+        return True
+    t = _special_table(label, flow, accent, bg)
+    try:
+        _w, h = t.wrap(TEXT_W, avail)
+    except Exception:
+        return False
+    return h <= avail
+
+
+def _split_to_fit(label, flow, accent, bg, avail):
+    """Split a list of flowables into groups, each of which yields a
+    table that fits within ``avail`` points of height.
+
+    A greedy prefix is located by binary search on the (monotonic)
+    measured table height, and a heading is never left stranded at the
+    foot of a page.
+    """
+    if not flow:
+        return [[]]
+    if _fits(label, flow, accent, bg, avail):
+        return [flow]
+    if len(flow) == 1:
+        # A single flowable that will not fit; let ReportLab deal with it.
+        return [flow]
+
+    lo, hi = 1, len(flow) - 1
+    best = 1
+    while lo <= hi:
+        mid = (lo + hi) // 2
+        if _fits(label, flow[:mid], accent, bg, avail):
+            best = mid
+            lo = mid + 1
+        else:
+            hi = mid - 1
+    # Do not strand a heading at the end of a chunk: it belongs with
+    # the paragraph that follows it.
+    while best > 1 and _is_heading(flow[best - 1]):
+        best -= 1
+    out = _split_to_fit(label, flow[:best], accent, bg, avail)
+    out.extend(_split_to_fit(label, flow[best:], accent, bg, avail))
+    return out
+
+
 def build_special(btype, btitle, body_text):
     label, accent, bg = SPECIAL_STYLE.get(btype, SPECIAL_STYLE["callout"])
     if btitle:
@@ -650,12 +706,16 @@ def build_special(btype, btitle, body_text):
         flow.extend(_render_blocks([b], None, None, None, "box"))
 
     chunks = _chunk_flowables(flow)
-    if len(chunks) <= 1:
+    groups = []
+    for c in chunks:
+        groups.extend(_split_to_fit(label, c, accent, bg, _BOX_AVAIL))
+
+    if len(groups) <= 1:
         t = _special_table(label, flow, accent, bg)
         return [Spacer(1, 5), t, Spacer(1, 9)]
 
     out = []
-    for i, chunk in enumerate(chunks):
+    for i, chunk in enumerate(groups):
         if i:
             out.append(PageBreak())
         t = _special_table(label, chunk, accent, bg, cont=(i > 0))
