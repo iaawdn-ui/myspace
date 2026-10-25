@@ -27,8 +27,9 @@ def base(section,num,dark=False):
     c.setFillColor(GOLD); c.rect(68,H-62,44,4,fill=1,stroke=0)
     c.setFont('Helvetica-Bold',13); c.setFillColor(GOLD); c.drawString(126,H-66,section.upper())
     c.setStrokeColor(GOLD); c.setLineWidth(1); c.line(68,38,W-68,38)
-    c.setFont('Helvetica',11); c.setFillColor(MUTED if not dark else HexColor('#C6C3BA')); c.drawString(68,19,'AI.101  •  INTRODUCTION TO ARTIFICIAL INTELLIGENCE')
-    c.drawRightString(W-68,19,f'{num:02d}  /  12')
+    c.setFont('Helvetica-Bold',9); c.setFillColor(MUTED if not dark else HexColor('#C6C3BA')); c.drawString(68,19,'TRIUNE BIBLICAL UNIVERSITY GLOBAL EXTENSION USA')
+    c.setFont('Helvetica',9); c.drawRightString(W-126,19,'AI.101  •  INTRODUCTION TO ARTIFICIAL INTELLIGENCE')
+    c.setFont('Helvetica',9); c.drawRightString(W-68,19,f'{num:02d} / 12')
     return fg
 
 def title(txt,sub=None,dark=False):

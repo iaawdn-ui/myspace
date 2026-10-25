@@ -51,7 +51,8 @@ def page_base(c,idx,total,section,dark=False):
     c.setFillColor(GOLD); c.rect(62,H-61,44,4,fill=1,stroke=0)
     c.setFont('Helvetica-Bold',12); c.setFillColor(GOLD); c.drawString(120,H-64,section.upper())
     c.setStrokeColor(GOLD); c.setLineWidth(.8); c.line(62,39,W-62,39)
-    c.setFont('Helvetica',10); c.setFillColor(HexColor('#C6C3BA') if dark else MUTED); c.drawString(62,20,'AI & ROBOTICS ENGINEERING  •  COURSE LECTURE')
+    c.setFont('Helvetica-Bold',9); c.setFillColor(HexColor('#C6C3BA') if dark else MUTED); c.drawString(62,20,'TRIUNE BIBLICAL UNIVERSITY GLOBAL EXTENSION USA')
+    c.setFont('Helvetica',9); c.drawRightString(W-118,20,'AI & ROBOTICS ENGINEERING  •  COURSE LECTURE')
     c.drawRightString(W-62,20,f'{idx:02d} / {total:02d}')
 
 def heading(c,text,sub=None,dark=False):
