@@ -8,8 +8,8 @@ For technical topics, each manuscript should identify where accurate diagrams, r
 
 ## Current progress
 
-- **AI.101 — Introduction to Artificial Intelligence:** Four modules written and typeset as separate PDFs, each with a Markdown source: (1) Foundations; (2) Task Environments and Problem Formulation; (3) Problem Formulation and Search; (4) Knowledge Representation and Reasoning. Visuals include an illustrative realistic engineering-lab image, PEAS task specification, agent/environment and system-boundary diagrams, environment classification, state-space search, and knowledge graphs/rule-inference illustrations. Each module includes narration, practical work, knowledge checks or assessment.
-- **AI.101 spoken narration progress:** 10,735 words across the four current manuscripts, measured from narration sections only; target is 100,000+ words. This is in progress and does not claim course completion.
+- **AI.101 — Introduction to Artificial Intelligence:** Six modules written and typeset as separate PDFs, each with a Markdown source: (1) Foundations; (2) Task Environments and Problem Formulation; (3) Problem Formulation and Search; (4) Knowledge Representation and Reasoning; (5) Uncertainty and Decision-Making; (6) Planning and Action. Visuals include an illustrative realistic engineering-lab image, PEAS task specification, agent/environment and system-boundary diagrams, environment classification, state-space search, knowledge graphs/rule-inference illustrations, probability updates, sensor-fusion diagrams, and planning/execution flows. Modules include narration, practical work, knowledge checks or assessments.
+- **AI.101 spoken narration progress:** 14,997 words across the six current manuscripts, measured from narration sections only; 85,003 words remain to the 100,000-word target. This is in progress and does not claim course completion.
 - **Remaining courses:** Not yet drafted as narration manuscripts. They will be built course-by-course so that each receives substantive, technically accurate teaching rather than padding or repeated filler.
 
 ## Rebuild
