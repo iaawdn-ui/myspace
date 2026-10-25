@@ -8,12 +8,12 @@ For technical topics, each manuscript should identify where accurate diagrams, r
 
 ## Current progress
 
-- **AI.101 — Introduction to Artificial Intelligence:** Six modules written and typeset as separate PDFs, each with a Markdown source: (1) Foundations; (2) Task Environments and Problem Formulation; (3) Problem Formulation and Search; (4) Knowledge Representation and Reasoning; (5) Uncertainty and Decision-Making; (6) Planning and Action. Visuals include an illustrative realistic engineering-lab image, PEAS task specification, agent/environment and system-boundary diagrams, environment classification, state-space search, knowledge graphs/rule-inference illustrations, probability updates, sensor-fusion diagrams, and planning/execution flows. Modules include narration, practical work, knowledge checks or assessments.
-- **AI.101 spoken narration progress:** 14,997 words across the six current manuscripts, measured from narration sections only; 85,003 words remain to the 100,000-word target. This is in progress and does not claim course completion.
+- **AI.101 — Introduction to Artificial Intelligence:** Eight modules written and typeset as separate PDFs, each with a Markdown source: (1) Foundations; (2) Task Environments and Problem Formulation; (3) Problem Formulation and Search; (4) Knowledge Representation and Reasoning; (5) Uncertainty and Decision-Making; (6) Planning and Action; (7) Machine Learning Foundations; (8) Neural Networks and Generative AI. Visuals include a realistic engineering-lab image, PEAS/task and system-boundary diagrams, state-space search, knowledge graphs, probability and sensor-fusion diagrams, planning flows, data-split illustrations, learning curves, and network schematics. Each module includes spoken narration, visual teaching cues, practical work, and assessment.
+- **AI.101 spoken narration progress:** 18,759 words across the eight current manuscripts, measured from narration sections only; 81,241 words remain to the 100,000-word target. This is in progress and does not claim course completion.
 - **Remaining courses:** Not yet drafted as narration manuscripts. They will be built course-by-course so that each receives substantive, technically accurate teaching rather than padding or repeated filler.
 
 ## Rebuild
 
 ```bash
-.venv/bin/python scripts/build_ai101_narration_pdf.py
+.venv/bin/python scripts/build_ai101_module_pdfs.py
 ```
