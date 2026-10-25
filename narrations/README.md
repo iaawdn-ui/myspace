@@ -8,8 +8,8 @@ For technical topics, each manuscript should identify where accurate diagrams, r
 
 ## Current progress
 
-- **AI.101 — Introduction to Artificial Intelligence:** Module 1, “What Is Artificial Intelligence?”, written and typeset as `AI101_Module_01_Foundations.pdf` with its source manuscript in Markdown. Includes an illustrative realistic lab image, an agent–environment diagram, a task/method/application map, narration, practical exercise, knowledge check, and assignment.
-- **Course word-count target:** 100,000+ spoken words. This first module is an installment; it does not claim completion of the course target.
+- **AI.101 — Introduction to Artificial Intelligence:** Four modules written and typeset as separate PDFs, each with a Markdown source: (1) Foundations; (2) Task Environments and Problem Formulation; (3) Problem Formulation and Search; (4) Knowledge Representation and Reasoning. Visuals include an illustrative realistic engineering-lab image, PEAS task specification, agent/environment and system-boundary diagrams, environment classification, state-space search, and knowledge graphs/rule-inference illustrations. Each module includes narration, practical work, knowledge checks or assessment.
+- **AI.101 spoken narration progress:** 10,735 words across the four current manuscripts, measured from narration sections only; target is 100,000+ words. This is in progress and does not claim course completion.
 - **Remaining courses:** Not yet drafted as narration manuscripts. They will be built course-by-course so that each receives substantive, technically accurate teaching rather than padding or repeated filler.
 
 ## Rebuild
